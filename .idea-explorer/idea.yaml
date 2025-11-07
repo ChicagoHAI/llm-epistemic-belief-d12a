@@ -1,0 +1,31 @@
+idea:
+  title: Do LLMs differentiate epistemic belief from non-epistemic belief?
+  domain: nlp
+  hypothesis: 'Large language models may or may not differentiate between epistemic
+    belief and non-epistemic belief, similar to distinctions observed in human cognition.
+    This research aims to determine whether LLMs exhibit different types of beliefs
+    analogous to those identified in humans.
+
+    '
+  background:
+    description: 'Inspired by Vesga et al. that argues humans have different types
+      of beliefs, it would be interesting to find out whether LLMs similarly have
+      different types of beliefs.
+
+      '
+    papers:
+    - description: '"Evidence for multiple kinds of belief in theory of mind." Andres
+        Vesga, Neil Van Leeuwen, Tania Lombrozo (2025). Journal of Experimental Psychology:
+        General. Advance online publication. https://dx.doi.org/10.1037/xge0001765'
+  constraints:
+    compute: cpu_only
+    time_limit: 3600
+    budget: 100
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/HGVv4Z0ALWVHZ9YsstWT
+    idea_id: do_llms_differentiate_epistemi_20251107_144531_606c630f
+    created_at: '2025-11-07T14:45:31.339100'
+    status: submitted
+    github_repo_name: llm-epistemic-belief-d12a
+    github_repo_url: https://github.com/ChicagoHAI/llm-epistemic-belief-d12a
