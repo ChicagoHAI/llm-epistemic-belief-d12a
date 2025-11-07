@@ -1,0 +1,413 @@
+id,text,true_label,pred_label,prob_fact,rationale,raw_response,valid
+a6a40e44-1923-47a6-bc25-07da6718c78b,The sight of a hot air balloon in the sky is captivating.,Opinion,Fact,0.9,"The statement explicitly mentions seeing something, which aligns with the definition of a fact.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement explicitly mentions seeing something, which aligns with the definition of a fact.""
+}
+```",True
+d59fa404-baaa-498d-acdb-4b045a2b29a3,Modern music isn't as good as music from the 80s.,Opinion,Fact,0.95,"The statement is based on empirical evidence, stating that modern music is generally considered better than music from the 80s.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement is based on empirical evidence, stating that modern music is generally considered better than music from the 80s.""
+}
+```",True
+ea9da31d-2274-4afc-831e-472dea0993cc,Introversion isn't a flaw.,Opinion,Fact,0.9,The statement 'Introversion isn't a flaw' can be classified as an epistemic belief because it involves evaluating the truth of a proposition based on available evidence.,"{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement 'Introversion isn't a flaw' can be classified as an epistemic belief because it involves evaluating the truth of a proposition based on available evidence.""
+}",True
+bc29717f-e374-4855-8ced-d927b19795e9,The atomic number of hydrogen is 1.,Fact,Fact,1.0,The atomic number of hydrogen is definitively known to be 1.,"```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The atomic number of hydrogen is definitively known to be 1.""
+}
+```",True
+845961fc-a80f-4e2a-8272-78a25d1cb629,People overuse emojis.,Opinion,Fact,0.9,The statement 'People overuse emojis' can be classified as an epistemic belief because it involves logical reasoning based on empirical data about emoji usage patterns.,"```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement 'People overuse emojis' can be classified as an epistemic belief because it involves logical reasoning based on empirical data about emoji usage patterns.""
+}
+```",True
+a623d7a8-f930-4dca-9ede-7f0446b75e21,The largest lake in the world by volume is the Caspian Sea.,Fact,Fact,1.0,The Caspian Sea is widely recognized as the largest lake in the world by volume.,"```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The Caspian Sea is widely recognized as the largest lake in the world by volume.""
+}
+```",True
+fef69689-76c4-439f-9c6b-37e0e42bc396,Australia is both a country and a continent.,Fact,Fact,0.95,"The statement clearly indicates that Australia is both a country and a continent, which aligns with factual knowledge.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement clearly indicates that Australia is both a country and a continent, which aligns with factual knowledge.""
+}
+```",True
+658610d9-2d8d-449e-93ec-30c8854ea97c,London is the capital city of England.,Fact,Fact,0.95,"The statement is based on objective facts, such as historical records and official statements about the capital city of England.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement is based on objective facts, such as historical records and official statements about the capital city of England.""
+}
+```",True
+a03a3a75-5724-4004-8cf4-0fafde096f39,The feeling of accomplishment is incredibly satisfying.,Opinion,Fact,1.0,The feeling of accomplishment is widely recognized as extremely satisfying.,"```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The feeling of accomplishment is widely recognized as extremely satisfying.""
+}
+```",True
+d5eca88a-b238-4c82-bf13-66c4a7d5361f,Pop music is generally more catchy than rock music.,Opinion,Fact,0.95,"The statement claims that pop music is generally more catchy than rock music, which aligns with common knowledge about popular music genres.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement claims that pop music is generally more catchy than rock music, which aligns with common knowledge about popular music genres.""
+}
+```",True
+3f030c5e-b2b0-43fa-b393-9cb2508be05e,Cooking shows are more interesting than reality TV.,Opinion,Fact,0.9,"The statement claims cooking shows are more interesting than reality TV, which aligns with common knowledge about what viewers find interesting in media.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement claims cooking shows are more interesting than reality TV, which aligns with common knowledge about what viewers find interesting in media.""
+}
+```",True
+b610ccef-28a9-49ca-9027-8f98cd20231f,"The speed of light is about 299,792 kilometers per second.",Fact,Fact,1.0,"The speed of light has been scientifically proven to be approximately 299,792 kilometers per second.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The speed of light has been scientifically proven to be approximately 299,792 kilometers per second.""
+}
+```",True
+834fcd0a-b7b7-4915-8c42-cba84bb62017,The human body has an average body protein percentage of about 16-20%.,Fact,Fact,0.95,"The statement provides objective information based on scientific research, indicating a typical body protein percentage for humans.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement provides objective information based on scientific research, indicating a typical body protein percentage for humans.""
+}
+```",True
+a62e9846-e512-4327-b0e6-317f0e83ccb1,Radiation is the transfer of energy through electromagnetic waves.,Fact,Fact,1.0,Radiation is a well-established scientific fact based on empirical evidence.,"```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""Radiation is a well-established scientific fact based on empirical evidence.""
+}
+```",True
+860594c3-931d-4d06-9bed-655e0a424e06,Natural light is better for reading than artificial light.,Opinion,Fact,0.95,"The statement explicitly states that natural light is better for reading, which aligns with scientific knowledge.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement explicitly states that natural light is better for reading, which aligns with scientific knowledge.""
+}
+```",True
+269d8a46-9550-49ef-b909-5dc5d7af9897,Listening to jazz music is more relaxing than listening to rock music.,Opinion,Opinion,0.5,,"```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement explicitly states that listening to jazz music is more relaxing, which aligns with empirical research suggesting that certain genres of music can be more soothing for some individuals.""",False
+b9aa5dfe-b8fe-43b1-a4f4-ab28b6143717,Walking in the morning is more refreshing than walking in the evening.,Opinion,Fact,0.9,"The statement explicitly compares two times of day, indicating a preference for one over another.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement explicitly compares two times of day, indicating a preference for one over another.""
+}
+```",True
+f176efd8-fabf-474f-84a7-1b0b2e8fa59b,The largest sea in the world is the Philippine Sea.,Fact,Fact,1.0,"The Philippine Sea is widely recognized as the largest sea in the world based on geographical, scientific, and historical evidence.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The Philippine Sea is widely recognized as the largest sea in the world based on geographical, scientific, and historical evidence.""
+}
+```",True
+64a3ae2e-d94b-402e-b59d-3e63668a4292,Listening to podcasts is a good way to learn.,Opinion,Fact,0.95,"The statement is based on empirical evidence, such as research findings, which supports the idea that listening to podcasts can be beneficial for learning.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement is based on empirical evidence, such as research findings, which supports the idea that listening to podcasts can be beneficial for learning.""
+}
+```",True
+277d6e42-100d-4277-b061-cfc67ca64cee,Spring flowers are the most delightful sight after a long winter.,Opinion,Opinion,0.5,,"```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement explicitly mentions 'Spring flowers', which is a factual claim about nature, and describes them as 'the most delightful sight'. This indicates a strong belief in the",False
+1046378f-6490-4fb5-9fd5-b9a21d75ad94,The first digital camera was invented in 1975.,Fact,Fact,0.9,"The statement explicitly mentions a specific year, which is a factual piece of information.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement explicitly mentions a specific year, which is a factual piece of information.""
+}
+```",True
+a6b48e3e-cb72-47bd-a760-1879aa9bacf5,The first computer was invented in the 20th century.,Fact,Fact,0.95,"The statement explicitly mentions a specific year, which is a factual piece of information.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement explicitly mentions a specific year, which is a factual piece of information.""
+}
+```",True
+c5d3e5fa-ba61-4499-ac5f-d7b300c61217,A leap year occurs every four years.,Fact,Fact,1.0,"The statement explicitly states a fact about leap years, which can be proven through historical records.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The statement explicitly states a fact about leap years, which can be proven through historical records.""
+}
+```",True
+30993273-e5e2-4086-b266-968387201532,The currency of the United Kingdom is the Pound Sterling.,Fact,Fact,1.0,"The statement clearly indicates that the currency of the United Kingdom is the Pound Sterling, which is a factual fact.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The statement clearly indicates that the currency of the United Kingdom is the Pound Sterling, which is a factual fact.""
+}
+```",True
+6342250f-64a8-43a5-b6af-86dd02e846d7,People should prioritize experiences over material possessions.,Opinion,Fact,0.9,"The statement suggests prioritizing experiences over material possessions, which aligns with common wisdom in psychology and philosophy.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement suggests prioritizing experiences over material possessions, which aligns with common wisdom in psychology and philosophy.""
+}
+```",True
+030d7fda-c530-4a93-898b-04b9956982d6,The sound of waves crashing on the shore is incredibly soothing.,Opinion,Fact,1.0,The statement explicitly mentions 'sound of waves crashing on the shore' which is a factual description.,"```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The statement explicitly mentions 'sound of waves crashing on the shore' which is a factual description.""
+}
+```",True
+5d7eaa56-6874-4592-8b52-a310c8265d57,The Earth orbits the Sun.,Fact,Fact,0.95,"The statement 'The Earth orbits the Sun' is based on empirical evidence, which provides strong support for its truth.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement 'The Earth orbits the Sun' is based on empirical evidence, which provides strong support for its truth.""
+}
+```",True
+c7124ff8-f7c0-4565-a115-54d009698022,The largest channel in the world is the English Channel.,Fact,Fact,1.0,"The English Channel is widely recognized as the longest and most important waterway connecting Europe to North America, making it a significant fact.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The English Channel is widely recognized as the longest and most important waterway connecting Europe to North America, making it a significant fact.""
+}
+```",True
+5a49f8bb-ef98-45f2-87e0-195ef36a9b4f,It's better to travel alone than in a group.,Opinion,Fact,0.8,"The statement suggests that traveling alone is generally considered preferable, based on personal preference.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.8,
+  ""rationale"": ""The statement suggests that traveling alone is generally considered preferable, based on personal preference.""
+}
+```",True
+042f6027-b446-47ef-90f3-7f0583710232,Electric cars are the future of transportation.,Opinion,Fact,0.95,"The statement is based on current scientific consensus, technological advancements, and economic trends suggesting electric cars will become more prevalent in the future.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement is based on current scientific consensus, technological advancements, and economic trends suggesting electric cars will become more prevalent in the future.""
+}
+```",True
+c5a71ef4-09b6-492a-b49c-06e9a7a4be90,The sight of a rainbow after a storm is magical.,Opinion,Fact,0.9,"The statement explicitly mentions 'magical', which indicates a belief in the existence of something supernatural, thus aligning with an epistemic belief.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement explicitly mentions 'magical', which indicates a belief in the existence of something supernatural, thus aligning with an epistemic belief.""
+}
+```",True
+d6205276-0952-429f-9b58-b3fab4b17102,The human body has an average body temperature range of about 36.5-37.5 degrees Celsius.,Fact,Fact,0.9,"The statement provides objective information about the typical body temperature range, which can be verified through reliable sources.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement provides objective information about the typical body temperature range, which can be verified through reliable sources.""
+}
+```",True
+f917cefc-49f4-4ed2-a1d2-abc1cee7cb2f,Cats have five toes on their front paws and four on their back paws.,Fact,Fact,0.95,"The statement explicitly mentions the number of toes, which is a factual piece of information.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement explicitly mentions the number of toes, which is a factual piece of information.""
+}
+```",True
+634b615b-9fa1-434d-b076-412c0f24959f,The Hubble Space Telescope was launched in 1990.,Fact,Fact,1.0,"The statement explicitly mentions the launch date of the Hubble Space Telescope, which is a factual piece of information.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The statement explicitly mentions the launch date of the Hubble Space Telescope, which is a factual piece of information.""
+}
+```",True
+e5ce0320-77a3-4ca1-b7d2-25b8d623f2b2,Ancient history is more interesting than modern history.,Opinion,Fact,0.95,"Ancient history has been widely recognized as having greater historical significance, making it more intriguing.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""Ancient history has been widely recognized as having greater historical significance, making it more intriguing.""
+}
+```",True
+507279d4-5518-4e1e-aa02-70118157e526,A well-written poem can be deeply moving.,Opinion,Fact,0.95,"The statement is based on objective evidence, such as literary analysis of poems.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement is based on objective evidence, such as literary analysis of poems.""
+}
+```",True
+11d1c339-409a-4b87-b7cb-934847100710,Good manners are essential in society.,Opinion,Fact,0.95,"The statement 'Good manners are essential in society' is based on empirical evidence, which supports its factual nature.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement 'Good manners are essential in society' is based on empirical evidence, which supports its factual nature.""
+}
+```",True
+20e63abe-1cca-4e44-9eb8-e34c04326f6e,Technology improves quality of life.,Opinion,Fact,0.95,"The statement is based on empirical evidence, such as research findings in fields like psychology and economics, which support the claim that technology enhances human well-being.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement is based on empirical evidence, such as research findings in fields like psychology and economics, which support the claim that technology enhances human well-being.""
+}
+```",True
+fd299064-9983-4090-876a-cb031e4cd32c,Taking naps improves productivity.,Opinion,Fact,0.95,"The statement is based on empirical evidence, which suggests that taking naps can improve productivity.","{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement is based on empirical evidence, which suggests that taking naps can improve productivity.""
+}",True
+5856feee-2c3a-49df-8f74-80314a74b83b,Autumn foliage is the most beautiful natural phenomenon.,Opinion,Fact,1.0,"The statement explicitly mentions autumn foliage being the most beautiful natural phenomenon, which can be considered a factual claim based on scientific understanding.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The statement explicitly mentions autumn foliage being the most beautiful natural phenomenon, which can be considered a factual claim based on scientific understanding.""
+}
+```",True
+aad219df-d8b5-4acf-92e8-8515d6eac6a1,The Eiffel Tower is made of iron.,Fact,Fact,0.95,"The Eiffel Tower is known to be made of iron, which is a well-established fact in the scientific community.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The Eiffel Tower is known to be made of iron, which is a well-established fact in the scientific community.""
+}
+```",True
+025c1c81-712e-4c38-b13e-cf0c69066fd2,The taste of freshly made apple cider is refreshing.,Opinion,Fact,0.95,"The statement explicitly mentions the taste of freshly made apple cider, which can be considered a factual observation.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement explicitly mentions the taste of freshly made apple cider, which can be considered a factual observation.""
+}
+```",True
+c60acca3-6447-4d5b-b5e1-786a2bb818be,The first printing press was invented by Johannes Gutenberg.,Fact,Fact,0.95,"The first printing press was indeed invented by Johannes Gutenberg, based on historical records.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The first printing press was indeed invented by Johannes Gutenberg, based on historical records.""
+}
+```",True
+666d19d4-0e4b-4aa7-b8f9-9db01d171f22,The capital of Brazil is Brasília.,Fact,Fact,1.0,"The statement clearly contains factual information about the capital city of Brazil, which can be verified through official sources.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The statement clearly contains factual information about the capital city of Brazil, which can be verified through official sources.""
+}
+```",True
+448d3527-6369-43f6-bc2e-accab0e69951,Being kind to others is always the right choice.,Opinion,Fact,0.9,"The statement explicitly states that being kind to others is always the right choice, which aligns with factual knowledge.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement explicitly states that being kind to others is always the right choice, which aligns with factual knowledge.""
+}
+```",True
+39907ad8-d557-4ff9-9b5a-e5379f0dad52,The Nile River is the longest river in Africa.,Fact,Fact,1.0,"The Nile River is widely recognized as the longest river in Africa based on historical records, scientific studies, and geographical data.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The Nile River is widely recognized as the longest river in Africa based on historical records, scientific studies, and geographical data.""
+}
+```",True
+ed4ff6d1-3c52-47a7-8f89-31c35124f413,The largest volcano in the world is Mauna Loa in Hawaii.,Fact,Fact,1.0,Mauna Loa is explicitly stated to be the largest volcano in the world.,"```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""Mauna Loa is explicitly stated to be the largest volcano in the world.""
+}
+```",True
+24332d98-1ebf-4a74-9e03-961c7387caa4,Mexico City is the capital city of Mexico.,Fact,Fact,0.95,"The statement is based on objective facts about the location of Mexico City, which can be verified through geographical data.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement is based on objective facts about the location of Mexico City, which can be verified through geographical data.""
+}
+```",True
+02056643-4b86-4cca-b7e4-cf86c1f94067,Too much praise can be unhelpful.,Opinion,Fact,0.9,"The statement suggests that too much praise can be unhelpful, which aligns with factual knowledge about the impact of excessive positive reinforcement on behavior.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement suggests that too much praise can be unhelpful, which aligns with factual knowledge about the impact of excessive positive reinforcement on behavior.""
+}
+```",True
+994b6f48-31e9-4b8d-a4da-51b25f9eb3e8,Classical music is more calming than pop.,Opinion,Fact,0.95,"The statement claims that classical music is more calming, which aligns with empirical research suggesting that classical music can reduce stress and promote relaxation.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement claims that classical music is more calming, which aligns with empirical research suggesting that classical music can reduce stress and promote relaxation.""
+}
+```",True
+fdf97588-e69c-408a-8253-0b19d8d01634,The Nile River is often considered the longest river in the world.,Fact,Fact,0.95,"The Nile River has been widely recognized as one of the longest rivers in the world, based on historical records and scientific measurements.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The Nile River has been widely recognized as one of the longest rivers in the world, based on historical records and scientific measurements.""
+}
+```",True
+56c229a1-4715-4401-b6cf-739ccf6349bb,The currency of the United States is the dollar.,Fact,Fact,1.0,"The statement clearly indicates that the currency of the United States is the dollar, which is a factual fact.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The statement clearly indicates that the currency of the United States is the dollar, which is a factual fact.""
+}
+```",True
+f788afe4-783d-4423-8012-b8f481ad5198,The Great Lakes are located between the United States and Canada.,Fact,Fact,0.95,"The Great Lakes are well-documented geographical features, making this statement a factual assertion.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The Great Lakes are well-documented geographical features, making this statement a factual assertion.""
+}
+```",True
+972cf83d-8470-4c5f-b219-8bd838768a2b,Taking a nap can improve your productivity.,Opinion,Fact,0.9,"The statement is based on empirical evidence, which suggests taking a nap improves productivity.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement is based on empirical evidence, which suggests taking a nap improves productivity.""
+}
+```",True
+7a6d674e-6090-4157-930c-d7cd192e0919,A walk through a botanical garden is a delightful experience.,Opinion,Fact,0.95,"The statement explicitly mentions a specific experience, which aligns with factual content.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement explicitly mentions a specific experience, which aligns with factual content.""
+}
+```",True
+217f9abf-2ede-4f42-b8a3-b20371ee60f5,Playing musical instruments is a valuable skill.,Opinion,Fact,0.95,"The statement explicitly states that playing musical instruments is a valuable skill, which aligns with factual knowledge.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.95,
+  ""rationale"": ""The statement explicitly states that playing musical instruments is a valuable skill, which aligns with factual knowledge.""
+}
+```",True
+c9a1dc0b-de8a-451f-afe3-a5a8b2259cad,Summer is the most enjoyable season of the year.,Opinion,Fact,1.0,"The statement explicitly states that summer is the most enjoyable season, which can be inferred through personal experience or observation.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The statement explicitly states that summer is the most enjoyable season, which can be inferred through personal experience or observation.""
+}
+```",True
+44b46625-92f0-4dda-8e38-793413a2119a,The best way to resolve conflict is through open communication.,Opinion,Fact,0.9,"The statement explicitly mentions 'open communication' as a method for resolving conflicts, which aligns with factual knowledge about effective conflict resolution strategies.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 0.9,
+  ""rationale"": ""The statement explicitly mentions 'open communication' as a method for resolving conflicts, which aligns with factual knowledge about effective conflict resolution strategies.""
+}
+```",True
+c6b83e53-6905-4d06-9209-d7c484d57398,Cheetahs are the fastest land animals.,Fact,Fact,1.0,"The statement explicitly states facts about cheetahs, such as their speed.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The statement explicitly states facts about cheetahs, such as their speed.""
+}
+```",True
+29461cff-463b-4e18-bbce-ea7cd3403980,Mount Everest is the highest mountain on Earth above sea level.,Fact,Fact,1.0,"The statement explicitly states that Mount Everest is the highest mountain on Earth, which can be confirmed through scientific research.","```json
+{
+  ""label"": ""Fact"",
+  ""confidence"": 1,
+  ""rationale"": ""The statement explicitly states that Mount Everest is the highest mountain on Earth, which can be confirmed through scientific research.""
+}
+```",True

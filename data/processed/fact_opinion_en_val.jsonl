@@ -1,0 +1,268 @@
+{"id": "1501e301-94a8-4767-a5bb-f2d49a36e3c9", "text": "Gardening is one of the most peaceful activities.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "29387302-20a1-4240-8dcb-4bb2e9f3e6c4", "text": "Public transportation is more convenient than driving.", "label": "Opinion", "source": "Le Chat"}
+{"id": "c801543c-9e2a-4ec1-a61d-42b61bb855ab", "text": "Bees produce honey.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "009777e4-a9d0-46d7-80e4-a61e6725a3b3", "text": "Homemade ice cream is creamier than store-bought versions.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "4929018a-4751-4013-b7d8-3dc7f08ef862", "text": "Classic literature is more valuable than modern books.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "4dd5bd03-7789-4ef6-8439-9e3b0c8f40c6", "text": "The dwarf planet Pluto was reclassified in 2006.", "label": "Fact", "source": "DeepSeek"}
+{"id": "196aac5d-7db5-4078-8a94-3b95a3480489", "text": "Historical dramas are the most engaging type of film.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "653119c1-5691-4dac-89f0-3e4b82e527a7", "text": "Reading poetry is more emotionally engaging than reading prose.", "label": "Opinion", "source": "Perplexity"}
+{"id": "d9250a0a-41ef-442e-885f-b2793b0e9766", "text": "Rainbows occur when light is refracted and reflected in water droplets.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "37646541-98fb-43d7-b80a-2a11c70df814", "text": "Saturn has rings made of ice and rock.", "label": "Fact", "source": "ChatGPT"}
+{"id": "343dca47-ac33-4626-9f97-57ebd4382b19", "text": "Venus is the second planet from the Sun.", "label": "Fact", "source": "ChatGPT"}
+{"id": "83a56462-09aa-4629-b12c-4017d664f22c", "text": "Fiction books are more engaging than non-fiction.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "40ca5222-44d0-4f6c-a6d0-a3374a305805", "text": "The capital of Indonesia is Jakarta.", "label": "Fact", "source": "Le Chat"}
+{"id": "d4784127-3dee-4b0e-a9b5-2673f3e494cc", "text": "Gold has the chemical symbol Au on the periodic table.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "928fa547-042f-48c5-ba4e-a344c5a5cd51", "text": "People should donate to charity regularly.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "22a16847-df38-4968-9a53-5bb8149752c6", "text": "Eating out is more fun than cooking at home.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "ee019857-e10c-49cc-b471-dedbdcea207d", "text": "People should take more risks in life.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "3f092ace-4721-4b49-8d27-1e66557a43bd", "text": "Sharks have been on Earth for more than 400 million years.", "label": "Fact", "source": "Perplexity"}
+{"id": "e1a41d52-2e2d-4257-8882-07648019930a", "text": "The Sahara Desert is expanding.", "label": "Fact", "source": "ChatGPT"}
+{"id": "fa00ee22-4f7b-4e05-af46-c98dcdd5bffa", "text": "Handwriting still matters.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "e1fa7d99-b341-48d8-b03a-f85177361a51", "text": "Cairo is the capital city of Egypt.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "36624b64-377f-442d-8b90-40bc119f5731", "text": "People should limit their intake of processed foods.", "label": "Opinion", "source": "Perplexity"}
+{"id": "1b2fca82-4eca-46ce-be83-1821836445cb", "text": "Small businesses deserve more support than large corporations.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "04bb36df-e4b9-48e2-b41b-7efaa363a97e", "text": "The capital of Saudi Arabia is Riyadh.", "label": "Fact", "source": "Le Chat"}
+{"id": "06f4b119-a530-45b8-848b-295c640284a4", "text": "Board games are more fun than video games.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "f58f48c3-cc95-48a5-b527-09e6e2896969", "text": "Pineapple belongs on pizza.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "53f27ad9-f408-4f7f-9757-8dc813acb6c9", "text": "The sound of a crackling campfire is comforting.", "label": "Opinion", "source": "Le Chat"}
+{"id": "83fe2944-46ce-4f99-a2b5-20a283d62981", "text": "The human muscular system enables movement and maintains posture.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "a915c8e9-0009-4a85-b9e5-221459a48195", "text": "Everyone should learn a second language.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "bcf9ea65-83f0-41df-b5b3-a31b71238ba7", "text": "Playing board games is a fun way to spend an evening.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "0fe3ae21-885a-4391-929a-f3ae02cc9201", "text": "Watching a sunset at the beach is a perfect way to end the day.", "label": "Opinion", "source": "Le Chat"}
+{"id": "81c5a054-0cc0-4208-a1fb-eda5069e8cdb", "text": "The currency of Japan is the yen.", "label": "Fact", "source": "ChatGPT"}
+{"id": "0f5db309-abde-45bf-b64e-25b84888a692", "text": "The largest canyon in the world is the Grand Canyon in the United States.", "label": "Fact", "source": "Le Chat"}
+{"id": "f90b106f-fcd1-44e6-89c7-39de8bff9d9d", "text": "Chocolate is the best flavor for desserts.", "label": "Opinion", "source": "Perplexity"}
+{"id": "78e199c0-b5ba-49c7-b4f2-0679885ca0f1", "text": "Mars is known as the Red Planet.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "870a5061-2245-4521-92f1-4ea75443c09c", "text": "The chemical symbol for xenon is Xe.", "label": "Fact", "source": "Le Chat"}
+{"id": "8de79758-f9ae-406d-be31-c9dba01ee5c7", "text": "Winter sports are more exciting than summer sports.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "a379939e-5088-4253-a024-ac1f0e7687b2", "text": "Ottawa is the capital city of Canada.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "f3a3e058-3b0d-49cd-9e91-292c973d294c", "text": "Exercise improves mood.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "9cb994fe-d824-461f-96ef-09d1b998ae4a", "text": "The smell of fresh cilantro is wonderful.", "label": "Opinion", "source": "Le Chat"}
+{"id": "b07a5bc5-1574-43d8-b306-87e4bdb1160c", "text": "The Earth rotates on its axis once every 24 hours.", "label": "Fact", "source": "Perplexity"}
+{"id": "ae74543b-7194-4c6f-93b2-52384f5f7341", "text": "Books are better than movies for storytelling.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "03cbc75c-65b0-4f94-adec-9aefa4eaab8e", "text": "Jazz music is more sophisticated than pop music.", "label": "Opinion", "source": "Le Chat"}
+{"id": "2f01238f-c764-4261-9016-2c1d9c961641", "text": "The human heart beats about 100,000 times per day.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "f9bb502e-1bfd-4796-9150-e099f1d27d09", "text": "The largest fjord in the world is the Scoresby Sund in Greenland.", "label": "Fact", "source": "Le Chat"}
+{"id": "102bc61c-6e19-4e13-af98-2690dbaab81a", "text": "The largest bay in the world is the Bay of Bengal.", "label": "Fact", "source": "Le Chat"}
+{"id": "41c84da2-d1fc-433e-ba72-ff76d6e77c73", "text": "Bees produce honey from flower nectar.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "512677aa-e4b3-4618-b6f6-6f6a7534e7b9", "text": "The Himalayas are located in Asia.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "58975f9f-f731-4c5d-9cc4-a304b080bcbe", "text": "Lightning strikes the Earth about 100 times every second.", "label": "Fact", "source": "ChatGPT"}
+{"id": "74a25b04-6710-4c75-8360-49c04f378087", "text": "Light travels at approximately 186,282 miles per second in a vacuum.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "e5ac3b99-fd1d-4b01-a1ec-fd5d92b54b75", "text": "The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World.", "label": "Fact", "source": "Perplexity"}
+{"id": "ff085742-600a-4817-904d-a8370ceac1b7", "text": "Butterflies undergo metamorphosis.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "66e4f197-1276-444d-ab54-e3204a6129a5", "text": "A hand-sewn dress is a beautiful and unique garment.", "label": "Opinion", "source": "Le Chat"}
+{"id": "30b5bab8-020e-401b-8aa0-aa50470259e6", "text": "Homemade soup is more comforting than canned soup.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "347a2b63-e9c6-45b8-8420-9856ae3374a9", "text": "The largest delta in the world is the Ganges-Brahmaputra Delta.", "label": "Fact", "source": "Le Chat"}
+{"id": "8bb91b8d-0282-4979-8d59-10f82bc5d944", "text": "People should spend time in nature regularly.", "label": "Opinion", "source": "Perplexity"}
+{"id": "d52f948e-c389-44c2-abb4-2442e0f31177", "text": "Listening to motivational speeches can boost confidence.", "label": "Opinion", "source": "Perplexity"}
+{"id": "e3e7a52d-c6e8-4827-a27d-9899605cb9e7", "text": "Science fiction novels offer the most imaginative stories.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "6f8cce4a-69a1-42df-b4f9-250e662ab690", "text": "The internet has made people less patient.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "da11f2db-dec7-4242-9742-3f911ecc2277", "text": "A day spent at a carnival is thrilling and fun.", "label": "Opinion", "source": "Le Chat"}
+{"id": "37ad31e2-8d2f-4c4e-831b-312f8fa30792", "text": "The Great Wall of China is visible from space with aid.", "label": "Fact", "source": "Le Chat"}
+{"id": "2972a110-5315-4ca3-830e-0ededb5d2398", "text": "Home-cooked meals taste better than restaurant food.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "b74d09ed-8620-4b4c-8804-25c2553598be", "text": "The human body has an average blood pressure of about 120/80 mmHg.", "label": "Fact", "source": "Le Chat"}
+{"id": "7ddd01cc-bb4d-4299-ab36-564c098da8eb", "text": "The beach is better than the mountains.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "0e8cd1fa-96de-4ba5-974e-92ad8b445e26", "text": "Handmade furniture is more durable than factory-made pieces.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "ff00ddc4-7afa-4e6d-9557-a69012076085", "text": "The human stomach produces acid to aid digestion.", "label": "Fact", "source": "Perplexity"}
+{"id": "374545f9-3862-408a-b071-d8c96a93ce12", "text": "Outdoor concerts are more enjoyable than indoor ones.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "2bf43164-b692-4212-8a33-50e2ba5b5ab6", "text": "Skipping breakfast is unhealthy.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "75600ace-a363-4a78-989c-3fa6923286e6", "text": "The chocolate cake at that bakery is the best in town.", "label": "Opinion", "source": "Le Chat"}
+{"id": "9032f46b-0f9e-4e8a-aca0-be069d021304", "text": "The capital of Mexico is Mexico City.", "label": "Fact", "source": "Le Chat"}
+{"id": "2d6ad848-5407-4df9-a544-22d660f06cad", "text": "The human tongue has about 10,000 taste buds.", "label": "Fact", "source": "DeepSeek"}
+{"id": "1370cd40-4190-4460-ba17-024ae8f09cd5", "text": "The Mona Lisa is a painting by Leonardo da Vinci.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "fb02b639-138f-4dfd-bbf7-bdf7bd652cbe", "text": "The human immune system defends against disease.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "e2e76fe4-5cfc-4e57-a318-739adae3cb6d", "text": "The ozone layer protects the Earth from harmful ultraviolet radiation.", "label": "Fact", "source": "ChatGPT"}
+{"id": "cb8c51b5-00cd-4e79-bb9b-6b71972770f4", "text": "Kind words can change someone's day.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "8d4662e1-57e5-4314-a55c-46c875c95aeb", "text": "The Mediterranean Sea is located between Europe and Africa.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "0efa7de0-d41d-4567-88bd-8a6bd3c8d1b5", "text": "An adult human has 32 teeth.", "label": "Fact", "source": "ChatGPT"}
+{"id": "912baf4d-54a8-436d-b8e7-3f09029e1aa3", "text": "Light travels at approximately 299,792 kilometers per second.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "fd6cab98-50d4-45a3-9144-7508aba63fda", "text": "A visit to a planetarium is both fun and educational.", "label": "Opinion", "source": "Le Chat"}
+{"id": "e3f89628-f7c8-4e97-9092-7a8d10168587", "text": "Cacti store water in their stems.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "9b753efa-77b8-4acb-bae9-b8ab7c681bf8", "text": "Chocolate ice cream is better than vanilla.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "be30b593-6872-4598-b071-1dbc23de194d", "text": "The largest desert in the world is the Sahara Desert.", "label": "Fact", "source": "Le Chat"}
+{"id": "d7e13725-2cbe-4760-87f4-8f1320022cdc", "text": "The human skin is the largest organ of the body.", "label": "Fact", "source": "Perplexity"}
+{"id": "f89f071c-3584-4e95-a31d-9e5e9fde4776", "text": "Silence can be powerful.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "48b0b9e2-a62a-4eb3-b78f-9980df0e2b03", "text": "Light travels at approximately 299,792 kilometers per second in a vacuum.", "label": "Fact", "source": "ChatGPT"}
+{"id": "b340db87-3dec-408c-b200-33ae2f3c0575", "text": "The sight of a field of tulips in bloom is stunning.", "label": "Opinion", "source": "Le Chat"}
+{"id": "a15a7b80-9d0c-4e2f-8e36-71b93dbbcd96", "text": "Spicy food is the best.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "7d2294d9-7213-4624-bb73-8720152926ed", "text": "The beach is more relaxing than the mountains.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "6ec2d6d7-06f5-48b8-8925-be09acbd6dee", "text": "Playing team sports teaches valuable skills.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "3f8e9828-8bc7-443d-96f8-b93d4e4aa679", "text": "Cats make better pets than dogs.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "c2c2a7a6-444f-4c2e-8cf3-cf2828042f22", "text": "The Dead Sea is located between Israel and Jordan.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "182a0877-fe4f-4f74-aa0b-1cef82b94930", "text": "The Earth's atmosphere is composed mainly of nitrogen and oxygen.", "label": "Fact", "source": "Perplexity"}
+{"id": "5b9e90a0-0d32-48c3-bd10-0503e5c78906", "text": "Football is the most exciting sport to watch.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "7132802e-a848-4adc-8791-8f3befe8c0ed", "text": "People should avoid procrastination.", "label": "Opinion", "source": "Perplexity"}
+{"id": "39d6273b-5829-48f8-bab0-7b64701d9a50", "text": "Eating breakfast is important for a good day.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "539347ca-861a-4b92-b5ec-b7b348da26a1", "text": "The Pacific Ring of Fire is an area with many active volcanoes.", "label": "Fact", "source": "Perplexity"}
+{"id": "ba997121-0ec9-4e80-8884-5914807d3077", "text": "The element hydrogen is the most abundant in the universe.", "label": "Fact", "source": "ChatGPT"}
+{"id": "33a7e25e-e08b-4b31-8588-86597bb5b3da", "text": "The capital of Spain is Madrid.", "label": "Fact", "source": "Le Chat"}
+{"id": "1b76645d-35bf-4c3f-86b5-ed38219a6394", "text": "The planet Mercury is the closest to the Sun.", "label": "Fact", "source": "DeepSeek"}
+{"id": "5778b4f2-d411-4b79-95e0-74f18e69fb99", "text": "Gaming is a valid hobby.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "f3e793fe-d31c-4c17-ba9d-32a00fd68f43", "text": "Walking is the best form of exercise.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "209e9896-653e-421f-8b3a-08c09f5531e1", "text": "Paris is the capital city of France.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "f925373a-ab89-48f2-b193-6e969a9c5cf3", "text": "Gold is a chemical element with the symbol Au.", "label": "Fact", "source": "ChatGPT"}
+{"id": "7c8dc404-4547-4fc5-8288-8f79ebc3a195", "text": "Money can't buy happiness.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "7e9226dc-2718-4b95-801a-2f886e92ddc1", "text": "The Mona Lisa was painted by Leonardo da Vinci.", "label": "Fact", "source": "ChatGPT"}
+{"id": "a5dbd80e-8f9c-4d69-9b1a-dd0a6b266183", "text": "Water boils at 100 degrees Celsius at sea level.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "7b7984e3-ad43-4082-9e0d-b71bcaacba4d", "text": "Cooking at home is more satisfying than eating out.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "7b6d7c0d-4e1f-47c2-8e49-a1e7142174e3", "text": "Condensation is the process by which water vapor becomes liquid water.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "001531cc-f42c-436c-a815-5cedc97db48d", "text": "Journaling is a great way to reflect on life.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "3015650a-dbc5-47dd-9dc9-cadd239b715d", "text": "The human body has an average blood volume of about 5 liters.", "label": "Fact", "source": "Le Chat"}
+{"id": "34c99f21-cc04-46a8-8ecc-280c43566251", "text": "Shopping is more stressful than fun.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "36fe6792-e10f-4c24-b0fd-a5908b136971", "text": "There are 24 hours in a day.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "37b92ded-782a-4df8-8419-d9cf4d81b418", "text": "The human body produces about 25 million new cells each second.", "label": "Fact", "source": "DeepSeek"}
+{"id": "18f638bb-a0fb-43ee-8558-f2396c7c6871", "text": "Electric cars are better for the environment.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "622bf48d-b91a-4f51-bf9c-5a2f64acd9cc", "text": "Fresh herbs make every dish taste better.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "40e8426c-570c-4be9-8074-e6fbfe45ec43", "text": "The smallest unit of life is the cell.", "label": "Fact", "source": "ChatGPT"}
+{"id": "28103fd1-8990-4ba0-b357-60acf2da39ff", "text": "The Statue of Liberty was a gift from France.", "label": "Fact", "source": "DeepSeek"}
+{"id": "843bdccf-3513-4ecc-9e3e-7c68de77a92c", "text": "Watching sports is more entertaining than playing sports.", "label": "Opinion", "source": "Perplexity"}
+{"id": "79f38314-d843-47b9-a5a2-0fd8e19c80a0", "text": "Traveling by train is more relaxing than flying.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "62915593-9dbb-4f22-a6d3-b911cde184f1", "text": "Friendship is more valuable than popularity.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "596e416e-0601-4f19-9a3b-aeeb10d1ae7e", "text": "Taking a hot bath is incredibly relaxing.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "de3ace72-d562-4e29-b576-08cb6ac28aef", "text": "Rainy days are more calming than sunny days.", "label": "Opinion", "source": "Perplexity"}
+{"id": "21e03864-faac-4123-86c7-e0307faac3d8", "text": "Homemade gifts show more thoughtfulness than expensive purchases.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "ebe9296c-e971-43fd-a4cc-8a31fc153a34", "text": "The capital of Australia is Canberra.", "label": "Fact", "source": "Perplexity"}
+{"id": "4b6cbab8-9e9a-458a-b54a-6abcf1fbd07a", "text": "Having a pet enriches your life.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "519c4c79-443d-4845-8f33-2e0d287a16cc", "text": "Morning meditation is the best way to center yourself.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "fc9db1cf-ac46-4aab-adc3-1a894e0cf3c8", "text": "The Berlin Wall fell in 1989.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "04ecffc2-549d-4e46-a741-1dee1bda3824", "text": "Meditation helps reduce anxiety.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "edd2b00c-16f8-4fe8-b7a9-6d96588b02d8", "text": "The Sahara Desert is expanding due to desertification.", "label": "Fact", "source": "Perplexity"}
+{"id": "27059b6d-8e96-41ab-a381-7e4a85da4288", "text": "Photosynthesis is the process by which plants convert sunlight into energy.", "label": "Fact", "source": "ChatGPT"}
+{"id": "753f8dac-7baa-42d7-b4d3-d9f36d86611d", "text": "A day spent at the beach is relaxing and fun.", "label": "Opinion", "source": "Le Chat"}
+{"id": "168185ba-4c7c-4e16-babc-c2d84e8d3054", "text": "Earth's magnetic field protects it from solar wind.", "label": "Fact", "source": "ChatGPT"}
+{"id": "867104f6-5695-4774-afe4-20d7485806d3", "text": "A square has four equal sides.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "398fc1f8-dbea-4c4c-8266-76327048b716", "text": "A well-written letter is a true treasure.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "b42a4be4-4357-45a2-8ef4-612fe19d07ab", "text": "The Moon has no atmosphere.", "label": "Fact", "source": "Perplexity"}
+{"id": "eeead21a-d409-4644-a47c-84b85d4104ef", "text": "People should get outside every day.", "label": "Opinion", "source": "Perplexity"}
+{"id": "119cc51a-35c4-41f5-a4f7-0cc15a000c2d", "text": "Art classes should be mandatory in schools.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "a1721528-4f28-4a71-ac88-b25a1ee86fb6", "text": "The human body has an average height of about 1.7 meters.", "label": "Fact", "source": "Le Chat"}
+{"id": "67476ce9-e8b0-4387-9b4d-0289dc27d01c", "text": "Sharks are a type of fish.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "44e34484-0cb5-444e-8630-07a7fcb6366c", "text": "Walking in the rain can be a refreshing experience.", "label": "Opinion", "source": "Le Chat"}
+{"id": "3f82e488-be1e-4ea3-864a-a8cd43782c1a", "text": "Bangkok is the capital city of Thailand.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "a964c365-a4b3-4d3c-93cf-2260c6d27ea0", "text": "The capital of Russia is Moscow.", "label": "Fact", "source": "Perplexity"}
+{"id": "7e2aa43d-e486-430b-ac5b-a280e8aee125", "text": "The human body is about 60% water.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "e65bf87d-245f-45da-ab02-ffbcb8cb645d", "text": "Mount Everest is the highest mountain above sea level.", "label": "Fact", "source": "Perplexity"}
+{"id": "c65866d6-358b-4538-bdf9-106d9c922434", "text": "People should take more time to enjoy the little things in life.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "69095227-7d79-4e07-b4b2-dda4161ee7cf", "text": "The human stomach produces acid to digest food.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "ab307695-7360-475e-bcb7-f8f92c986e6a", "text": "Children shouldn't have smartphones.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "9c3ca893-afbf-4d66-9882-602aa6573e13", "text": "Morning exercise is more beneficial than evening workouts.", "label": "Opinion", "source": "Le Chat"}
+{"id": "84ce2d51-b236-455f-bcfe-ba8391df7608", "text": "People talk too loudly on the phone.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "b79b2b11-19cf-40b4-b911-f9fd0bb487d6", "text": "The first internet message was sent in 1969.", "label": "Fact", "source": "DeepSeek"}
+{"id": "feaf50d4-383c-4cad-bc0f-7a7a083811f8", "text": "Watching sunsets is more peaceful than watching sunrises.", "label": "Opinion", "source": "Perplexity"}
+{"id": "77b4c844-7cd9-4545-ac79-ecceae23d29f", "text": "The human skeletal system provides support and protection.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "bd2ffa1b-969f-4d87-ad25-38616b245a7b", "text": "People should laugh more to reduce stress.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "b33eeddb-9b7b-4c6f-8ecc-2c2905a530c3", "text": "Chlorophyll gives plants their green color.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "62b640c9-4479-43a6-b438-eb2c46ee71ee", "text": "The education system needs major reforms.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "664efabb-9125-4c2d-bc52-db746e8d0fc5", "text": "Social media does more harm than good.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "84557e6f-cd5d-4d07-acb8-db05a7f8692b", "text": "The Atlantic Ocean borders both the Americas and Europe.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "ce28b9df-c1a7-44d7-92dc-8701f25be8db", "text": "Small museums are more educational than large ones.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "4295ca3e-94c4-4e62-a630-8ce2c2269946", "text": "The Amazon rainforest produces about 20% of the Earth's oxygen.", "label": "Fact", "source": "ChatGPT"}
+{"id": "bd164772-05df-4528-b15c-1c62a93c682d", "text": "Early morning is the best time to exercise.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "a3cbbec7-1a71-4118-8f15-dea0024cb991", "text": "Bright lighting improves mood.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "ef3c3ac4-4207-4f8b-b1c6-fd047ebbcc1a", "text": "Watching movies at home is more comfortable than going to the theater.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "a158d271-10a7-4134-b1bd-30aa5fea5427", "text": "Simple designs are often the most elegant.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "091498ae-bac7-49f9-b79a-e571fda29961", "text": "Camping under the stars is more memorable than staying in luxury hotels.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "e9b60f03-1c6b-402b-b6e5-77bad268007c", "text": "The Great Pyramid of Giza is the oldest of the Seven Wonders.", "label": "Fact", "source": "DeepSeek"}
+{"id": "e65b743d-f0da-4b9b-ae05-15cdbb88ad62", "text": "The human brain weighs about 1.4 kilograms.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "7975e380-b2ca-4e39-9478-3b278b57d7eb", "text": "Sunsets are more beautiful than sunrises.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "a8eee2db-e36b-4088-b373-da3459ed0583", "text": "The currency of India is the Rupee.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "598167fb-6fe0-4b31-857f-bd438775ff5a", "text": "Spicy food is more flavorful than bland food.", "label": "Opinion", "source": "Perplexity"}
+{"id": "402f4a6f-b754-4724-88d1-c64acad9f755", "text": "The taste of a perfectly ripe tomato is unbeatable.", "label": "Opinion", "source": "Le Chat"}
+{"id": "c2fbfc42-1c60-4ceb-a901-6798de2f2e51", "text": "Polar bears live in the Arctic region.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "bf38f5c8-1421-446b-9a6c-53f6b7e7c929", "text": "Watching comedies improves mood more than watching dramas.", "label": "Opinion", "source": "Perplexity"}
+{"id": "d5c534e0-ed58-4d5b-a832-599c9239d184", "text": "Summer vacations are more fun than winter holidays.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "38ec1c2c-89d7-4a9a-883b-fe40df0f35a0", "text": "An octopus has three hearts.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "b9d6553d-7c2c-4891-8229-d153cb03631e", "text": "The Eiffel Tower was completed in 1889.", "label": "Fact", "source": "ChatGPT"}
+{"id": "1c8c3a21-dcd9-43f4-90a9-c53a310ed4db", "text": "Breakfast is the most important meal.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "1b9bfa85-ad18-4503-83a6-5af0cfce53df", "text": "Silence is more powerful than words.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "652e587c-e5df-42c6-9173-c958257b2458", "text": "The first moon landing occurred in 1969.", "label": "Fact", "source": "DeepSeek"}
+{"id": "85ccea98-7159-4cae-8d2a-e14186a64dbb", "text": "Most selfies are pointless.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "00604048-7fc9-4be9-a917-8cc1ec1e58aa", "text": "Reading books is more rewarding than watching movies.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "c6d2e7a3-f846-42c4-be2d-75265f1da5b7", "text": "The best ideas come at night.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "8c82fa3e-e9fd-491c-bdf9-e3e1e98e4fde", "text": "Traveling is the best way to learn about the world.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "394de6a6-d124-4083-8576-3e113bdcfc6c", "text": "Dogs make better pets than cats.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "330f79aa-a7bc-432f-9e31-d91b6a9b95b0", "text": "Sound travels faster in water than in air.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "45432378-fc35-4ed1-ba45-2cc953be9750", "text": "The ocean produces most of the oxygen we breathe.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "c64da8df-0ce0-43fd-8076-65c6c0e9a256", "text": "Quiet neighborhoods are better for raising children.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "623915ba-bf94-4932-83f7-b51a9d965131", "text": "The Amazon River is the second longest river in the world.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "8c389a96-f72d-479e-8b83-2bb36cb94b42", "text": "A minimalist lifestyle leads to greater happiness.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "a031f67d-71c0-4d70-9779-78db5a29ef2f", "text": "The sound of a waterfall is very calming.", "label": "Opinion", "source": "Le Chat"}
+{"id": "de32921a-b841-4793-b001-47c4e56a9b7e", "text": "Morning walks are more energizing than evening walks.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "c0d62bd5-4848-486c-8ff3-566b84e4a7bd", "text": "Chocolate is the best dessert.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "4c1d5409-6d9e-45bd-8566-d8368f1c6a5b", "text": "People should learn to meditate.", "label": "Opinion", "source": "Perplexity"}
+{"id": "e6aef844-1bda-432a-ba5e-87f59bb40f4e", "text": "Introverts are better listeners.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "c77e92a2-6fad-4bbd-89d0-eb94a24e8299", "text": "The Danube River flows through multiple European countries.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "0aae1691-206e-4c8c-88d3-427304b226ec", "text": "Reading fiction is more enjoyable than reading non-fiction.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "a0507651-88ff-42c4-82c1-f7c108394dbf", "text": "Reading physical books is better than reading on screens.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "8cc11409-6cc8-47b5-a56b-1bf707a9e271", "text": "The moon has no atmosphere.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "8acf7b39-ae4b-4e69-969d-2be9f953d001", "text": "The best art comes from personal experience.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "1324aede-417a-44e2-8ae2-e98f4c31259f", "text": "People should take more vacations for mental health.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "226b86e3-7701-4910-a813-4f709ed5dba4", "text": "Social media often causes unnecessary stress.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "aab7881c-b634-4eb6-8f51-dc6959166d27", "text": "The first steam engine was developed in the 18th century.", "label": "Fact", "source": "DeepSeek"}
+{"id": "f323cd67-d1c2-4b26-b5b7-f579adeff7cb", "text": "Walking in nature is more therapeutic than indoor exercise.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "74276675-2a21-4b35-9ee5-f3ddfe047b8c", "text": "Avocados are overrated.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "8220e284-006c-4209-bfae-7b00d192fc70", "text": "A cozy blanket makes any evening better.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "048b562f-f6a5-405a-8373-76d07f6e10a9", "text": "People should drink more water throughout the day.", "label": "Opinion", "source": "Perplexity"}
+{"id": "81386d4d-33e5-47a5-a3c5-907f24fe8286", "text": "Every person has creative potential.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "3d091696-f5c3-4df1-aada-49ff5b7613c7", "text": "Summer is too hot for outdoor activities.", "label": "Opinion", "source": "Perplexity"}
+{"id": "6ce12d62-dffe-437a-b99e-f537cb988bb8", "text": "New Delhi is the capital city of India.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "d98a2bd7-0e3b-47d8-a0c5-44fcd1345acd", "text": "The best way to relax is with a good book.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "5cd6f300-4476-4823-9c6a-f2247cac2c41", "text": "The tiger is the largest species of cat.", "label": "Fact", "source": "ChatGPT"}
+{"id": "1f23f62b-3e6e-428c-a04c-c95d02217107", "text": "The Andes Mountains run along the western coast of South America.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "d312c047-c378-4f5d-92e9-5c714e79d4a9", "text": "A year on Mercury lasts about 88 Earth days.", "label": "Fact", "source": "ChatGPT"}
+{"id": "072f1c1a-6827-4199-b9b0-48328034f828", "text": "Gardening is the most rewarding hobby.", "label": "Opinion", "source": "Le Chat"}
+{"id": "1947355b-9d6d-4c42-9f0c-f8a8750857c2", "text": "Yoga is more beneficial for mental health than running.", "label": "Opinion", "source": "Perplexity"}
+{"id": "4baf365f-e89b-44a8-accc-3fb055777368", "text": "The Earth experiences four seasons.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "46f3517c-993c-4c63-8858-c83d4b1fff5b", "text": "Small weddings are more intimate than large ones.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "d9ef509b-5872-4188-8522-181d68f6fce7", "text": "Handwritten letters are more meaningful than emails.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "84dcc767-110c-4017-a611-689c9048b35f", "text": "Natural beauty is more appealing than artificial enhancement.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "5087b9f5-0473-4132-8cb6-7be2e4d39be0", "text": "Diamonds are made of carbon.", "label": "Fact", "source": "ChatGPT"}
+{"id": "94705dcd-0e76-4bf2-b943-9700d7915824", "text": "Acoustic guitars sound better than electric ones.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "18008db4-4464-428f-9de4-d003eecb6ba8", "text": "People should tip service workers generously.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "96ddaed9-30cd-4b17-9fdb-e993f7fb936e", "text": "The human stomach produces hydrochloric acid.", "label": "Fact", "source": "DeepSeek"}
+{"id": "e4a3dc50-02bd-4f78-8195-691f5d5b77ad", "text": "Honey never spoils under proper storage conditions.", "label": "Fact", "source": "Perplexity"}
+{"id": "3d206db5-664f-4082-be97-58553684e842", "text": "A walk through a historic neighborhood is always interesting.", "label": "Opinion", "source": "Le Chat"}
+{"id": "228aae93-08dc-456f-bc5b-8422e40730a9", "text": "The chameleon can change its skin color.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "5e3a3406-e829-4460-8cdb-bde0709b1d51", "text": "The Amazon Rainforest produces 20% of the world's oxygen.", "label": "Fact", "source": "DeepSeek"}
+{"id": "6b21626d-8298-42d8-b445-7e955b4428fd", "text": "The largest mountain range in the world is the Mid-Atlantic Ridge.", "label": "Fact", "source": "Le Chat"}
+{"id": "702a5a38-fe2c-4680-a76f-42b2211b1acb", "text": "School uniforms restrict students' self-expression.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "1cfedc12-3092-4ef2-8002-eae5f2ec165e", "text": "Fresh flowers are more beautiful than artificial ones.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "a3bfc583-c048-4c2f-9da4-a6966271150f", "text": "Coffee is more energizing than tea.", "label": "Opinion", "source": "Perplexity"}
+{"id": "52b2e308-21fd-4bfc-9fbf-fc32783dfee0", "text": "The human body has an average body hormone percentage of less than 1%.", "label": "Fact", "source": "Le Chat"}
+{"id": "28fc11ed-09df-48cb-afda-da845c04b640", "text": "People should take breaks during work to stay refreshed.", "label": "Opinion", "source": "Perplexity"}
+{"id": "6d0faf96-2794-4622-b6d0-c4443f4ca75e", "text": "Coffee beans are seeds.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "8b104ad9-0c04-4c8e-8fd9-8600cb5d172c", "text": "The Andromeda Galaxy is the closest spiral galaxy to the Milky Way.", "label": "Fact", "source": "DeepSeek"}
+{"id": "80e9da77-90d8-4df0-83d5-d1550532191c", "text": "Watching a sunrise from a mountaintop is breathtaking.", "label": "Opinion", "source": "Le Chat"}
+{"id": "da47b328-d05c-4a0c-81e7-0af81db4aeef", "text": "People should volunteer regularly to help their communities.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "cde048cc-4bf5-499c-9603-64993fc0ad2c", "text": "The best decisions are made with both heart and mind.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "38f63f88-db63-4236-bd52-efef12783576", "text": "Learning to play an instrument is a valuable skill.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "b62bda51-ac21-4827-a201-8728aaa45088", "text": "Birds are the only animals with feathers.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "0681ac7b-eb40-4679-9e67-b380603f45ca", "text": "Small classes allow for better teacher-student relationships.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "def96517-d6ef-4288-90b5-1feb0d654327", "text": "The first manned spaceflight occurred in 1961.", "label": "Fact", "source": "DeepSeek"}
+{"id": "9694f28e-4c5a-4096-806c-9cc75050f897", "text": "Morning coffee is essential for starting the day right.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "6f5128bc-1f35-4523-bd89-37387fed8bc7", "text": "Learning to play an instrument is worth the effort.", "label": "Opinion", "source": "DeepSeek"}
+{"id": "204ed235-0f1a-4692-9c64-b3eb50d6d308", "text": "The capital of China is Beijing.", "label": "Fact", "source": "Le Chat"}
+{"id": "fef794b4-4f42-49e2-aeef-d44a2c6c994c", "text": "The taste of homemade soup is unbeatable.", "label": "Opinion", "source": "Le Chat"}
+{"id": "f72cfc40-d7e6-443d-aa73-d92b9b73a095", "text": "The currency of the United States is the Dollar.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "38c9d7b4-d58e-4eee-ba38-60f55fbba90c", "text": "Mount Fuji is the highest mountain in Japan.", "label": "Fact", "source": "Gemini 2.5 Flash"}
+{"id": "a02c321c-88e8-433b-a3e3-56c4bb0f22dc", "text": "The Nile River flows through Egypt.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "9f4f3874-4c3a-4046-8564-2805034f1900", "text": "The Sahara Desert is located in Africa.", "label": "Fact", "source": "Perplexity"}
+{"id": "f82d73a0-ebba-4b3f-b119-d99dd6ce0b1d", "text": "There are eight planets in the solar system.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "d8445737-3ce0-434d-af06-73ad5827d593", "text": "The Statue of Liberty was a gift from France to the United States.", "label": "Fact", "source": "ChatGPT"}
+{"id": "1acfc73e-5227-41e6-9fa3-e1a53ccab29d", "text": "The Earth orbits the Sun in an elliptical path.", "label": "Fact", "source": "Perplexity"}
+{"id": "122389aa-d265-4c80-8ac1-be2bfe4afe49", "text": "Natural remedies are preferable to synthetic medications.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "7852a433-ccb1-4987-a565-06966d2e6758", "text": "Cold weather is refreshing.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "747c9082-94af-45ae-8082-b8a7def1b941", "text": "The human liver is the largest internal organ.", "label": "Fact", "source": "ChatGPT"}
+{"id": "9b964b9a-95a1-4e26-a4f3-d4cfe8a355c7", "text": "The Eiffel Tower is located in Paris.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "789c64d8-4e83-46b1-960b-152bef7f309e", "text": "Handwritten thank-you notes are more appreciated than digital messages.", "label": "Opinion", "source": "Claude Sonnet 4"}
+{"id": "832d54d2-c02f-4432-b40e-0699f9f158cb", "text": "The Amazon River is one of the longest rivers in the world.", "label": "Fact", "source": "ChatGPT"}
+{"id": "96d1cc48-bd30-46c4-981e-982fb433e5c9", "text": "Classic novels are better than modern ones.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "a6c0765b-bf17-4f18-aeaa-5bbe4f0c6e00", "text": "Having a strong support system is invaluable.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "a2ce80f0-2410-43d9-9125-b8f2f941963a", "text": "Minimalist design feels cold.", "label": "Opinion", "source": "Microsoft Copilot"}
+{"id": "251a6ee4-67dc-4064-942b-9be770d2a99d", "text": "Visiting a botanical garden is a delightful experience.", "label": "Opinion", "source": "Le Chat"}
+{"id": "75819257-1dc8-44f9-b6a9-89246c3ae14b", "text": "The human body has an average weight of about 62 kilograms.", "label": "Fact", "source": "Le Chat"}
+{"id": "a7ccb652-d0f7-4461-8456-eb36125c2bde", "text": "Antarctica is the coldest continent.", "label": "Fact", "source": "Microsoft Copilot"}
+{"id": "55e87f54-069a-44c5-b906-534b8389f347", "text": "The human respiratory system includes the lungs and airways.", "label": "Fact", "source": "Claude Sonnet 4"}
+{"id": "445fc4a5-749a-491b-a870-96c19453a269", "text": "Comfort food is best on a cold day.", "label": "Opinion", "source": "Gemini 2.5 Flash"}
+{"id": "dadbbd25-b63d-4671-a797-b3c57fa7c730", "text": "Video games are a great way to relax.", "label": "Opinion", "source": "ChatGPT"}
+{"id": "9a1e2db7-276d-4d84-89d3-eb897b1aa883", "text": "A day spent at the lake is refreshing and fun.", "label": "Opinion", "source": "Le Chat"}

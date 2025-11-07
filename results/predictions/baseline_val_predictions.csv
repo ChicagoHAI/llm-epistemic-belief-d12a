@@ -1,0 +1,269 @@
+id,text,true_label,pred_label,prob_fact
+1501e301-94a8-4767-a5bb-f2d49a36e3c9,Gardening is one of the most peaceful activities.,Opinion,Opinion,0.31561806816446913
+29387302-20a1-4240-8dcb-4bb2e9f3e6c4,Public transportation is more convenient than driving.,Opinion,Opinion,0.12696182449205384
+c801543c-9e2a-4ec1-a61d-42b61bb855ab,Bees produce honey.,Fact,Opinion,0.47596366552102876
+009777e4-a9d0-46d7-80e4-a61e6725a3b3,Homemade ice cream is creamier than store-bought versions.,Opinion,Opinion,0.24302235260119953
+4929018a-4751-4013-b7d8-3dc7f08ef862,Classic literature is more valuable than modern books.,Opinion,Opinion,0.1412860219265345
+4dd5bd03-7789-4ef6-8439-9e3b0c8f40c6,The dwarf planet Pluto was reclassified in 2006.,Fact,Fact,0.9081187485076953
+196aac5d-7db5-4078-8a94-3b95a3480489,Historical dramas are the most engaging type of film.,Opinion,Opinion,0.4371818225275418
+653119c1-5691-4dac-89f0-3e4b82e527a7,Reading poetry is more emotionally engaging than reading prose.,Opinion,Opinion,0.10828061936364575
+d9250a0a-41ef-442e-885f-b2793b0e9766,Rainbows occur when light is refracted and reflected in water droplets.,Fact,Fact,0.6535342142831463
+37646541-98fb-43d7-b80a-2a11c70df814,Saturn has rings made of ice and rock.,Fact,Fact,0.6997015951737038
+343dca47-ac33-4626-9f97-57ebd4382b19,Venus is the second planet from the Sun.,Fact,Fact,0.8347737381643708
+83a56462-09aa-4629-b12c-4017d664f22c,Fiction books are more engaging than non-fiction.,Opinion,Opinion,0.15370537656517702
+40ca5222-44d0-4f6c-a6d0-a3374a305805,The capital of Indonesia is Jakarta.,Fact,Fact,0.924940158662877
+d4784127-3dee-4b0e-a9b5-2673f3e494cc,Gold has the chemical symbol Au on the periodic table.,Fact,Fact,0.8725968273122618
+928fa547-042f-48c5-ba4e-a344c5a5cd51,People should donate to charity regularly.,Opinion,Opinion,0.08429762280208108
+22a16847-df38-4968-9a53-5bb8149752c6,Eating out is more fun than cooking at home.,Opinion,Opinion,0.14730168228092344
+ee019857-e10c-49cc-b471-dedbdcea207d,People should take more risks in life.,Opinion,Opinion,0.12813036735913041
+3f092ace-4721-4b49-8d27-1e66557a43bd,Sharks have been on Earth for more than 400 million years.,Fact,Fact,0.5921925862821129
+e1a41d52-2e2d-4257-8882-07648019930a,The Sahara Desert is expanding.,Fact,Fact,0.652682990435484
+fa00ee22-4f7b-4e05-af46-c98dcdd5bffa,Handwriting still matters.,Opinion,Opinion,0.4278163687800466
+e1fa7d99-b341-48d8-b03a-f85177361a51,Cairo is the capital city of Egypt.,Fact,Fact,0.837671464312931
+36624b64-377f-442d-8b90-40bc119f5731,People should limit their intake of processed foods.,Opinion,Opinion,0.24057303278990738
+1b2fca82-4eca-46ce-be83-1821836445cb,Small businesses deserve more support than large corporations.,Opinion,Opinion,0.17598887623280668
+04bb36df-e4b9-48e2-b41b-7efaa363a97e,The capital of Saudi Arabia is Riyadh.,Fact,Fact,0.924940158662877
+06f4b119-a530-45b8-848b-295c640284a4,Board games are more fun than video games.,Opinion,Opinion,0.1937072189828698
+f58f48c3-cc95-48a5-b527-09e6e2896969,Pineapple belongs on pizza.,Opinion,Opinion,0.33968273523956793
+53f27ad9-f408-4f7f-9757-8dc813acb6c9,The sound of a crackling campfire is comforting.,Opinion,Opinion,0.4464234313416513
+83fe2944-46ce-4f99-a2b5-20a283d62981,The human muscular system enables movement and maintains posture.,Fact,Fact,0.8456579820052674
+a915c8e9-0009-4a85-b9e5-221459a48195,Everyone should learn a second language.,Opinion,Opinion,0.23901099348587707
+bcf9ea65-83f0-41df-b5b3-a31b71238ba7,Playing board games is a fun way to spend an evening.,Opinion,Opinion,0.24603108517788896
+0fe3ae21-885a-4391-929a-f3ae02cc9201,Watching a sunset at the beach is a perfect way to end the day.,Opinion,Opinion,0.29633252382822883
+81c5a054-0cc0-4208-a1fb-eda5069e8cdb,The currency of Japan is the yen.,Fact,Fact,0.8065695290620862
+0f5db309-abde-45bf-b64e-25b84888a692,The largest canyon in the world is the Grand Canyon in the United States.,Fact,Fact,0.9316722342433842
+f90b106f-fcd1-44e6-89c7-39de8bff9d9d,Chocolate is the best flavor for desserts.,Opinion,Opinion,0.4293015738144538
+78e199c0-b5ba-49c7-b4f2-0679885ca0f1,Mars is known as the Red Planet.,Fact,Fact,0.6332550896970695
+870a5061-2245-4521-92f1-4ea75443c09c,The chemical symbol for xenon is Xe.,Fact,Fact,0.9254516175819963
+8de79758-f9ae-406d-be31-c9dba01ee5c7,Winter sports are more exciting than summer sports.,Opinion,Opinion,0.1274576291739694
+a379939e-5088-4253-a024-ac1f0e7687b2,Ottawa is the capital city of Canada.,Fact,Fact,0.861762091518389
+f3a3e058-3b0d-49cd-9e91-292c973d294c,Exercise improves mood.,Opinion,Opinion,0.3111775514379538
+9cb994fe-d824-461f-96ef-09d1b998ae4a,The smell of fresh cilantro is wonderful.,Opinion,Opinion,0.28097401808826417
+b07a5bc5-1574-43d8-b306-87e4bdb1160c,The Earth rotates on its axis once every 24 hours.,Fact,Fact,0.7338728119784887
+ae74543b-7194-4c6f-93b2-52384f5f7341,Books are better than movies for storytelling.,Opinion,Opinion,0.17032168794036462
+03cbc75c-65b0-4f94-adec-9aefa4eaab8e,Jazz music is more sophisticated than pop music.,Opinion,Opinion,0.138092476328464
+2f01238f-c764-4261-9016-2c1d9c961641,"The human heart beats about 100,000 times per day.",Fact,Fact,0.7211243816834834
+f9bb502e-1bfd-4796-9150-e099f1d27d09,The largest fjord in the world is the Scoresby Sund in Greenland.,Fact,Fact,0.9597884402353802
+102bc61c-6e19-4e13-af98-2690dbaab81a,The largest bay in the world is the Bay of Bengal.,Fact,Fact,0.9739980159793511
+41c84da2-d1fc-433e-ba72-ff76d6e77c73,Bees produce honey from flower nectar.,Fact,Fact,0.5039966120247663
+512677aa-e4b3-4618-b6f6-6f6a7534e7b9,The Himalayas are located in Asia.,Fact,Fact,0.7063815000901259
+58975f9f-f731-4c5d-9cc4-a304b080bcbe,Lightning strikes the Earth about 100 times every second.,Fact,Fact,0.8012664836484915
+74a25b04-6710-4c75-8360-49c04f378087,"Light travels at approximately 186,282 miles per second in a vacuum.",Fact,Fact,0.6738891998449735
+e5ac3b99-fd1d-4b01-a1ec-fd5d92b54b75,The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World.,Fact,Fact,0.7580191174887863
+ff085742-600a-4817-904d-a8370ceac1b7,Butterflies undergo metamorphosis.,Fact,Opinion,0.4637645962438224
+66e4f197-1276-444d-ab54-e3204a6129a5,A hand-sewn dress is a beautiful and unique garment.,Opinion,Opinion,0.30897168066167036
+30b5bab8-020e-401b-8aa0-aa50470259e6,Homemade soup is more comforting than canned soup.,Opinion,Opinion,0.17269688412500217
+347a2b63-e9c6-45b8-8420-9856ae3374a9,The largest delta in the world is the Ganges-Brahmaputra Delta.,Fact,Fact,0.9421335845198319
+8bb91b8d-0282-4979-8d59-10f82bc5d944,People should spend time in nature regularly.,Opinion,Opinion,0.17771403752755544
+d52f948e-c389-44c2-abb4-2442e0f31177,Listening to motivational speeches can boost confidence.,Opinion,Opinion,0.2628215219668488
+e3e7a52d-c6e8-4827-a27d-9899605cb9e7,Science fiction novels offer the most imaginative stories.,Opinion,Opinion,0.3292561541564277
+6f8cce4a-69a1-42df-b4f9-250e662ab690,The internet has made people less patient.,Opinion,Opinion,0.4200742685270308
+da11f2db-dec7-4242-9742-3f911ecc2277,A day spent at a carnival is thrilling and fun.,Opinion,Opinion,0.25910644279003925
+37ad31e2-8d2f-4c4e-831b-312f8fa30792,The Great Wall of China is visible from space with aid.,Fact,Fact,0.6520947349164956
+2972a110-5315-4ca3-830e-0ededb5d2398,Home-cooked meals taste better than restaurant food.,Opinion,Opinion,0.1651355059060473
+b74d09ed-8620-4b4c-8804-25c2553598be,The human body has an average blood pressure of about 120/80 mmHg.,Fact,Fact,0.9336191072554318
+7ddd01cc-bb4d-4299-ab36-564c098da8eb,The beach is better than the mountains.,Opinion,Opinion,0.33163198357767365
+0e8cd1fa-96de-4ba5-974e-92ad8b445e26,Handmade furniture is more durable than factory-made pieces.,Opinion,Opinion,0.1683345242803136
+ff00ddc4-7afa-4e6d-9557-a69012076085,The human stomach produces acid to aid digestion.,Fact,Fact,0.7477633338745786
+374545f9-3862-408a-b071-d8c96a93ce12,Outdoor concerts are more enjoyable than indoor ones.,Opinion,Opinion,0.13013013253643957
+2bf43164-b692-4212-8a33-50e2ba5b5ab6,Skipping breakfast is unhealthy.,Opinion,Opinion,0.33572985063096517
+75600ace-a363-4a78-989c-3fa6923286e6,The chocolate cake at that bakery is the best in town.,Opinion,Fact,0.6565020421354155
+9032f46b-0f9e-4e8a-aca0-be069d021304,The capital of Mexico is Mexico City.,Fact,Fact,0.7781145589738973
+2d6ad848-5407-4df9-a544-22d660f06cad,"The human tongue has about 10,000 taste buds.",Fact,Fact,0.828346231664129
+1370cd40-4190-4460-ba17-024ae8f09cd5,The Mona Lisa is a painting by Leonardo da Vinci.,Fact,Fact,0.6593244186128964
+fb02b639-138f-4dfd-bbf7-bdf7bd652cbe,The human immune system defends against disease.,Fact,Fact,0.9450204296201993
+e2e76fe4-5cfc-4e57-a318-739adae3cb6d,The ozone layer protects the Earth from harmful ultraviolet radiation.,Fact,Fact,0.832514517696956
+cb8c51b5-00cd-4e79-bb9b-6b71972770f4,Kind words can change someone's day.,Opinion,Opinion,0.3356545958382139
+8d4662e1-57e5-4314-a55c-46c875c95aeb,The Mediterranean Sea is located between Europe and Africa.,Fact,Fact,0.683284170573556
+0efa7de0-d41d-4567-88bd-8a6bd3c8d1b5,An adult human has 32 teeth.,Fact,Fact,0.6724600690401878
+912baf4d-54a8-436d-b8e7-3f09029e1aa3,"Light travels at approximately 299,792 kilometers per second.",Fact,Fact,0.622107331160123
+fd6cab98-50d4-45a3-9144-7508aba63fda,A visit to a planetarium is both fun and educational.,Opinion,Opinion,0.24155010357424633
+e3f89628-f7c8-4e97-9092-7a8d10168587,Cacti store water in their stems.,Fact,Fact,0.6750752307072432
+9b753efa-77b8-4acb-bae9-b8ab7c681bf8,Chocolate ice cream is better than vanilla.,Opinion,Opinion,0.1722997003220561
+be30b593-6872-4598-b071-1dbc23de194d,The largest desert in the world is the Sahara Desert.,Fact,Fact,0.9160680503311045
+d7e13725-2cbe-4760-87f4-8f1320022cdc,The human skin is the largest organ of the body.,Fact,Fact,0.9311191393499136
+f89f071c-3584-4e95-a31d-9e5e9fde4776,Silence can be powerful.,Opinion,Opinion,0.30758772470922235
+48b0b9e2-a62a-4eb3-b78f-9980df0e2b03,"Light travels at approximately 299,792 kilometers per second in a vacuum.",Fact,Fact,0.6570791722612878
+b340db87-3dec-408c-b200-33ae2f3c0575,The sight of a field of tulips in bloom is stunning.,Opinion,Fact,0.5557542608351971
+a15a7b80-9d0c-4e2f-8e36-71b93dbbcd96,Spicy food is the best.,Opinion,Opinion,0.3703738208193367
+7d2294d9-7213-4624-bb73-8720152926ed,The beach is more relaxing than the mountains.,Opinion,Opinion,0.28412752570335553
+6ec2d6d7-06f5-48b8-8925-be09acbd6dee,Playing team sports teaches valuable skills.,Opinion,Opinion,0.33083009852335643
+3f8e9828-8bc7-443d-96f8-b93d4e4aa679,Cats make better pets than dogs.,Opinion,Opinion,0.2169594203609172
+c2c2a7a6-444f-4c2e-8cf3-cf2828042f22,The Dead Sea is located between Israel and Jordan.,Fact,Fact,0.7507958012811268
+182a0877-fe4f-4f74-aa0b-1cef82b94930,The Earth's atmosphere is composed mainly of nitrogen and oxygen.,Fact,Fact,0.8274279811850027
+5b9e90a0-0d32-48c3-bd10-0503e5c78906,Football is the most exciting sport to watch.,Opinion,Opinion,0.2923335806740919
+7132802e-a848-4adc-8791-8f3befe8c0ed,People should avoid procrastination.,Opinion,Opinion,0.12736069484819557
+39d6273b-5829-48f8-bab0-7b64701d9a50,Eating breakfast is important for a good day.,Opinion,Opinion,0.23702661345089504
+539347ca-861a-4b92-b5ec-b7b348da26a1,The Pacific Ring of Fire is an area with many active volcanoes.,Fact,Fact,0.5867129338038157
+ba997121-0ec9-4e80-8884-5914807d3077,The element hydrogen is the most abundant in the universe.,Fact,Fact,0.7715752279664939
+33a7e25e-e08b-4b31-8588-86597bb5b3da,The capital of Spain is Madrid.,Fact,Fact,0.8119997746627012
+1b76645d-35bf-4c3f-86b5-ed38219a6394,The planet Mercury is the closest to the Sun.,Fact,Fact,0.8315651695492039
+5778b4f2-d411-4b79-95e0-74f18e69fb99,Gaming is a valid hobby.,Opinion,Opinion,0.332838952622453
+f3e793fe-d31c-4c17-ba9d-32a00fd68f43,Walking is the best form of exercise.,Opinion,Opinion,0.335742522351444
+209e9896-653e-421f-8b3a-08c09f5531e1,Paris is the capital city of France.,Fact,Fact,0.850545695083357
+f925373a-ab89-48f2-b193-6e969a9c5cf3,Gold is a chemical element with the symbol Au.,Fact,Fact,0.7131993323241399
+7c8dc404-4547-4fc5-8288-8f79ebc3a195,Money can't buy happiness.,Opinion,Opinion,0.423301874984252
+7e9226dc-2718-4b95-801a-2f886e92ddc1,The Mona Lisa was painted by Leonardo da Vinci.,Fact,Fact,0.7511458856585026
+a5dbd80e-8f9c-4d69-9b1a-dd0a6b266183,Water boils at 100 degrees Celsius at sea level.,Fact,Fact,0.6517574530632568
+7b7984e3-ad43-4082-9e0d-b71bcaacba4d,Cooking at home is more satisfying than eating out.,Opinion,Opinion,0.15628983539702102
+7b6d7c0d-4e1f-47c2-8e49-a1e7142174e3,Condensation is the process by which water vapor becomes liquid water.,Fact,Fact,0.7745534047661188
+001531cc-f42c-436c-a815-5cedc97db48d,Journaling is a great way to reflect on life.,Opinion,Opinion,0.18673109370722474
+3015650a-dbc5-47dd-9dc9-cadd239b715d,The human body has an average blood volume of about 5 liters.,Fact,Fact,0.8996631494113476
+34c99f21-cc04-46a8-8ecc-280c43566251,Shopping is more stressful than fun.,Opinion,Opinion,0.12245366029563887
+36fe6792-e10f-4c24-b0fd-a5908b136971,There are 24 hours in a day.,Fact,Opinion,0.4621912697935261
+37b92ded-782a-4df8-8419-d9cf4d81b418,The human body produces about 25 million new cells each second.,Fact,Fact,0.8657326811198576
+18f638bb-a0fb-43ee-8558-f2396c7c6871,Electric cars are better for the environment.,Opinion,Opinion,0.4249969282356182
+622bf48d-b91a-4f51-bf9c-5a2f64acd9cc,Fresh herbs make every dish taste better.,Opinion,Opinion,0.2214178235465435
+40e8426c-570c-4be9-8074-e6fbfe45ec43,The smallest unit of life is the cell.,Fact,Fact,0.6812960169053555
+28103fd1-8990-4ba0-b357-60acf2da39ff,The Statue of Liberty was a gift from France.,Fact,Fact,0.7131353417891939
+843bdccf-3513-4ecc-9e3e-7c68de77a92c,Watching sports is more entertaining than playing sports.,Opinion,Opinion,0.16583602259315833
+79f38314-d843-47b9-a5a2-0fd8e19c80a0,Traveling by train is more relaxing than flying.,Opinion,Opinion,0.15811770703588246
+62915593-9dbb-4f22-a6d3-b911cde184f1,Friendship is more valuable than popularity.,Opinion,Opinion,0.11444680317270262
+596e416e-0601-4f19-9a3b-aeeb10d1ae7e,Taking a hot bath is incredibly relaxing.,Opinion,Opinion,0.3261401671598896
+de3ace72-d562-4e29-b576-08cb6ac28aef,Rainy days are more calming than sunny days.,Opinion,Opinion,0.1969108820207991
+21e03864-faac-4123-86c7-e0307faac3d8,Homemade gifts show more thoughtfulness than expensive purchases.,Opinion,Opinion,0.16777939987994583
+ebe9296c-e971-43fd-a4cc-8a31fc153a34,The capital of Australia is Canberra.,Fact,Fact,0.8547532394977209
+4b6cbab8-9e9a-458a-b54a-6abcf1fbd07a,Having a pet enriches your life.,Opinion,Opinion,0.28323201942320275
+519c4c79-443d-4845-8f33-2e0d287a16cc,Morning meditation is the best way to center yourself.,Opinion,Opinion,0.27867983887445735
+fc9db1cf-ac46-4aab-adc3-1a894e0cf3c8,The Berlin Wall fell in 1989.,Fact,Fact,0.7526380948399218
+04ecffc2-549d-4e46-a741-1dee1bda3824,Meditation helps reduce anxiety.,Opinion,Opinion,0.3524867007617999
+edd2b00c-16f8-4fe8-b7a9-6d96588b02d8,The Sahara Desert is expanding due to desertification.,Fact,Fact,0.5814588077296758
+27059b6d-8e96-41ab-a381-7e4a85da4288,Photosynthesis is the process by which plants convert sunlight into energy.,Fact,Fact,0.7061072469105432
+753f8dac-7baa-42d7-b4d3-d9f36d86611d,A day spent at the beach is relaxing and fun.,Opinion,Opinion,0.3060416014923575
+168185ba-4c7c-4e16-babc-c2d84e8d3054,Earth's magnetic field protects it from solar wind.,Fact,Fact,0.5872898516717577
+867104f6-5695-4774-afe4-20d7485806d3,A square has four equal sides.,Fact,Fact,0.6197942716004339
+398fc1f8-dbea-4c4c-8266-76327048b716,A well-written letter is a true treasure.,Opinion,Opinion,0.35623931548343624
+b42a4be4-4357-45a2-8ef4-612fe19d07ab,The Moon has no atmosphere.,Fact,Fact,0.8460677551976851
+eeead21a-d409-4644-a47c-84b85d4104ef,People should get outside every day.,Opinion,Opinion,0.1596041356279334
+119cc51a-35c4-41f5-a4f7-0cc15a000c2d,Art classes should be mandatory in schools.,Opinion,Opinion,0.2597090705728813
+a1721528-4f28-4a71-ac88-b25a1ee86fb6,The human body has an average height of about 1.7 meters.,Fact,Fact,0.9384251149636199
+67476ce9-e8b0-4387-9b4d-0289dc27d01c,Sharks are a type of fish.,Fact,Fact,0.6266764542575566
+44e34484-0cb5-444e-8630-07a7fcb6366c,Walking in the rain can be a refreshing experience.,Opinion,Fact,0.5067793918491384
+3f82e488-be1e-4ea3-864a-a8cd43782c1a,Bangkok is the capital city of Thailand.,Fact,Fact,0.837671464312931
+a964c365-a4b3-4d3c-93cf-2260c6d27ea0,The capital of Russia is Moscow.,Fact,Fact,0.8119997746627012
+7e2aa43d-e486-430b-ac5b-a280e8aee125,The human body is about 60% water.,Fact,Fact,0.8897953942701051
+e65bf87d-245f-45da-ab02-ffbcb8cb645d,Mount Everest is the highest mountain above sea level.,Fact,Fact,0.6818474449501457
+c65866d6-358b-4538-bdf9-106d9c922434,People should take more time to enjoy the little things in life.,Opinion,Opinion,0.1575913885728848
+69095227-7d79-4e07-b4b2-dda4161ee7cf,The human stomach produces acid to digest food.,Fact,Fact,0.7563062760113081
+ab307695-7360-475e-bcb7-f8f92c986e6a,Children shouldn't have smartphones.,Opinion,Opinion,0.4760697214552203
+9c3ca893-afbf-4d66-9882-602aa6573e13,Morning exercise is more beneficial than evening workouts.,Opinion,Opinion,0.09662380698214701
+84ce2d51-b236-455f-bcfe-ba8391df7608,People talk too loudly on the phone.,Opinion,Opinion,0.45173063729450214
+b79b2b11-19cf-40b4-b911-f9fd0bb487d6,The first internet message was sent in 1969.,Fact,Fact,0.7478189950400125
+feaf50d4-383c-4cad-bc0f-7a7a083811f8,Watching sunsets is more peaceful than watching sunrises.,Opinion,Opinion,0.13383755400101238
+77b4c844-7cd9-4545-ac79-ecceae23d29f,The human skeletal system provides support and protection.,Fact,Fact,0.856327652875681
+bd2ffa1b-969f-4d87-ad25-38616b245a7b,People should laugh more to reduce stress.,Opinion,Opinion,0.08989653321535296
+b33eeddb-9b7b-4c6f-8ecc-2c2905a530c3,Chlorophyll gives plants their green color.,Fact,Opinion,0.417957113963056
+62b640c9-4479-43a6-b438-eb2c46ee71ee,The education system needs major reforms.,Opinion,Fact,0.6858602724361261
+664efabb-9125-4c2d-bc52-db746e8d0fc5,Social media does more harm than good.,Opinion,Opinion,0.1601076908284772
+84557e6f-cd5d-4d07-acb8-db05a7f8692b,The Atlantic Ocean borders both the Americas and Europe.,Fact,Fact,0.7533390743272286
+ce28b9df-c1a7-44d7-92dc-8701f25be8db,Small museums are more educational than large ones.,Opinion,Opinion,0.14284671176513664
+4295ca3e-94c4-4e62-a630-8ce2c2269946,The Amazon rainforest produces about 20% of the Earth's oxygen.,Fact,Fact,0.8777890013867903
+bd164772-05df-4528-b15c-1c62a93c682d,Early morning is the best time to exercise.,Opinion,Opinion,0.25982618567823135
+a3cbbec7-1a71-4118-8f15-dea0024cb991,Bright lighting improves mood.,Opinion,Opinion,0.3299199571561544
+ef3c3ac4-4207-4f8b-b1c6-fd047ebbcc1a,Watching movies at home is more comfortable than going to the theater.,Opinion,Opinion,0.20419243758932581
+a158d271-10a7-4134-b1bd-30aa5fea5427,Simple designs are often the most elegant.,Opinion,Opinion,0.3289617674437191
+091498ae-bac7-49f9-b79a-e571fda29961,Camping under the stars is more memorable than staying in luxury hotels.,Opinion,Opinion,0.29793350408550534
+e9b60f03-1c6b-402b-b6e5-77bad268007c,The Great Pyramid of Giza is the oldest of the Seven Wonders.,Fact,Fact,0.8122800968749836
+e65b743d-f0da-4b9b-ae05-15cdbb88ad62,The human brain weighs about 1.4 kilograms.,Fact,Fact,0.8124750170475241
+7975e380-b2ca-4e39-9478-3b278b57d7eb,Sunsets are more beautiful than sunrises.,Opinion,Opinion,0.1480701897061929
+a8eee2db-e36b-4088-b373-da3459ed0583,The currency of India is the Rupee.,Fact,Fact,0.7996221254844482
+598167fb-6fe0-4b31-857f-bd438775ff5a,Spicy food is more flavorful than bland food.,Opinion,Opinion,0.11863700485034745
+402f4a6f-b754-4724-88d1-c64acad9f755,The taste of a perfectly ripe tomato is unbeatable.,Opinion,Opinion,0.2953711266951454
+c2fbfc42-1c60-4ceb-a901-6798de2f2e51,Polar bears live in the Arctic region.,Fact,Fact,0.6875787698820618
+bf38f5c8-1421-446b-9a6c-53f6b7e7c929,Watching comedies improves mood more than watching dramas.,Opinion,Opinion,0.14338876656848376
+d5c534e0-ed58-4d5b-a832-599c9239d184,Summer vacations are more fun than winter holidays.,Opinion,Opinion,0.12805793301720048
+38ec1c2c-89d7-4a9a-883b-fe40df0f35a0,An octopus has three hearts.,Fact,Fact,0.6143052936759303
+b9d6553d-7c2c-4891-8229-d153cb03631e,The Eiffel Tower was completed in 1889.,Fact,Fact,0.7298369498495143
+1c8c3a21-dcd9-43f4-90a9-c53a310ed4db,Breakfast is the most important meal.,Opinion,Opinion,0.2695438159932636
+1b9bfa85-ad18-4503-83a6-5af0cfce53df,Silence is more powerful than words.,Opinion,Opinion,0.018783597951393838
+652e587c-e5df-42c6-9173-c958257b2458,The first moon landing occurred in 1969.,Fact,Fact,0.7897646741228849
+85ccea98-7159-4cae-8d2a-e14186a64dbb,Most selfies are pointless.,Opinion,Opinion,0.1976887454832542
+00604048-7fc9-4be9-a917-8cc1ec1e58aa,Reading books is more rewarding than watching movies.,Opinion,Opinion,0.09836090641210837
+c6d2e7a3-f846-42c4-be2d-75265f1da5b7,The best ideas come at night.,Opinion,Opinion,0.35946149993304255
+8c82fa3e-e9fd-491c-bdf9-e3e1e98e4fde,Traveling is the best way to learn about the world.,Opinion,Opinion,0.4818930000786079
+394de6a6-d124-4083-8576-3e113bdcfc6c,Dogs make better pets than cats.,Opinion,Opinion,0.20326007747863428
+330f79aa-a7bc-432f-9e31-d91b6a9b95b0,Sound travels faster in water than in air.,Fact,Fact,0.6488239363129746
+45432378-fc35-4ed1-ba45-2cc953be9750,The ocean produces most of the oxygen we breathe.,Fact,Fact,0.7756341112407111
+c64da8df-0ce0-43fd-8076-65c6c0e9a256,Quiet neighborhoods are better for raising children.,Opinion,Opinion,0.26811339368846643
+623915ba-bf94-4932-83f7-b51a9d965131,The Amazon River is the second longest river in the world.,Fact,Fact,0.8999169793110026
+8c389a96-f72d-479e-8b83-2bb36cb94b42,A minimalist lifestyle leads to greater happiness.,Opinion,Opinion,0.3116058739700175
+a031f67d-71c0-4d70-9779-78db5a29ef2f,The sound of a waterfall is very calming.,Opinion,Opinion,0.37435323845864377
+de32921a-b841-4793-b001-47c4e56a9b7e,Morning walks are more energizing than evening walks.,Opinion,Opinion,0.09220663760397507
+c0d62bd5-4848-486c-8ff3-566b84e4a7bd,Chocolate is the best dessert.,Opinion,Opinion,0.3862382137850776
+4c1d5409-6d9e-45bd-8566-d8368f1c6a5b,People should learn to meditate.,Opinion,Opinion,0.12308857039988097
+e6aef844-1bda-432a-ba5e-87f59bb40f4e,Introverts are better listeners.,Opinion,Opinion,0.20724521982682031
+c77e92a2-6fad-4bbd-89d0-eb94a24e8299,The Danube River flows through multiple European countries.,Fact,Fact,0.7506781893397422
+0aae1691-206e-4c8c-88d3-427304b226ec,Reading fiction is more enjoyable than reading non-fiction.,Opinion,Opinion,0.13898833987998405
+a0507651-88ff-42c4-82c1-f7c108394dbf,Reading physical books is better than reading on screens.,Opinion,Opinion,0.1527840918383987
+8cc11409-6cc8-47b5-a56b-1bf707a9e271,The moon has no atmosphere.,Fact,Fact,0.8460677551976851
+8acf7b39-ae4b-4e69-969d-2be9f953d001,The best art comes from personal experience.,Opinion,Opinion,0.39920249329774904
+1324aede-417a-44e2-8ae2-e98f4c31259f,People should take more vacations for mental health.,Opinion,Opinion,0.1427990485068409
+226b86e3-7701-4910-a813-4f709ed5dba4,Social media often causes unnecessary stress.,Opinion,Opinion,0.34836395883376836
+aab7881c-b634-4eb6-8f51-dc6959166d27,The first steam engine was developed in the 18th century.,Fact,Fact,0.8877773990835428
+f323cd67-d1c2-4b26-b5b7-f579adeff7cb,Walking in nature is more therapeutic than indoor exercise.,Opinion,Opinion,0.17389498813187743
+74276675-2a21-4b35-9ee5-f3ddfe047b8c,Avocados are overrated.,Opinion,Opinion,0.33570130627204997
+8220e284-006c-4209-bfae-7b00d192fc70,A cozy blanket makes any evening better.,Opinion,Opinion,0.25827006081449677
+048b562f-f6a5-405a-8373-76d07f6e10a9,People should drink more water throughout the day.,Opinion,Opinion,0.21011772269773843
+81386d4d-33e5-47a5-a3c5-907f24fe8286,Every person has creative potential.,Opinion,Fact,0.5289905519886533
+3d091696-f5c3-4df1-aada-49ff5b7613c7,Summer is too hot for outdoor activities.,Opinion,Opinion,0.326563550614943
+6ce12d62-dffe-437a-b99e-f537cb988bb8,New Delhi is the capital city of India.,Fact,Fact,0.8210389491113494
+d98a2bd7-0e3b-47d8-a0c5-44fcd1345acd,The best way to relax is with a good book.,Opinion,Opinion,0.230931337154626
+5cd6f300-4476-4823-9c6a-f2247cac2c41,The tiger is the largest species of cat.,Fact,Fact,0.8566501650078782
+1f23f62b-3e6e-428c-a04c-c95d02217107,The Andes Mountains run along the western coast of South America.,Fact,Fact,0.6708774077325579
+d312c047-c378-4f5d-92e9-5c714e79d4a9,A year on Mercury lasts about 88 Earth days.,Fact,Fact,0.6935383390719552
+072f1c1a-6827-4199-b9b0-48328034f828,Gardening is the most rewarding hobby.,Opinion,Opinion,0.286764805460489
+1947355b-9d6d-4c42-9f0c-f8a8750857c2,Yoga is more beneficial for mental health than running.,Opinion,Opinion,0.16086004896248363
+4baf365f-e89b-44a8-accc-3fb055777368,The Earth experiences four seasons.,Fact,Fact,0.8713854682371371
+46f3517c-993c-4c63-8858-c83d4b1fff5b,Small weddings are more intimate than large ones.,Opinion,Opinion,0.1497934455059925
+d9ef509b-5872-4188-8522-181d68f6fce7,Handwritten letters are more meaningful than emails.,Opinion,Opinion,0.18047852691419586
+84dcc767-110c-4017-a611-689c9048b35f,Natural beauty is more appealing than artificial enhancement.,Opinion,Opinion,0.16609118921416732
+5087b9f5-0473-4132-8cb6-7be2e4d39be0,Diamonds are made of carbon.,Fact,Fact,0.5636296942272887
+94705dcd-0e76-4bf2-b943-9700d7915824,Acoustic guitars sound better than electric ones.,Opinion,Opinion,0.15525367104086107
+18008db4-4464-428f-9de4-d003eecb6ba8,People should tip service workers generously.,Opinion,Opinion,0.11839189641994441
+96ddaed9-30cd-4b17-9fdb-e993f7fb936e,The human stomach produces hydrochloric acid.,Fact,Fact,0.8782299426862554
+e4a3dc50-02bd-4f78-8195-691f5d5b77ad,Honey never spoils under proper storage conditions.,Fact,Fact,0.5530137347763661
+3d206db5-664f-4082-be97-58553684e842,A walk through a historic neighborhood is always interesting.,Opinion,Opinion,0.2872153005830791
+228aae93-08dc-456f-bc5b-8422e40730a9,The chameleon can change its skin color.,Fact,Fact,0.5701113554875044
+5e3a3406-e829-4460-8cdb-bde0709b1d51,The Amazon Rainforest produces 20% of the world's oxygen.,Fact,Fact,0.8498796983870406
+6b21626d-8298-42d8-b445-7e955b4428fd,The largest mountain range in the world is the Mid-Atlantic Ridge.,Fact,Fact,0.9388268905931307
+702a5a38-fe2c-4680-a76f-42b2211b1acb,School uniforms restrict students' self-expression.,Opinion,Opinion,0.3516825470214079
+1cfedc12-3092-4ef2-8002-eae5f2ec165e,Fresh flowers are more beautiful than artificial ones.,Opinion,Opinion,0.12479172488293688
+a3bfc583-c048-4c2f-9da4-a6966271150f,Coffee is more energizing than tea.,Opinion,Opinion,0.09993039172347007
+52b2e308-21fd-4bfc-9fbf-fc32783dfee0,The human body has an average body hormone percentage of less than 1%.,Fact,Fact,0.8745978727898491
+28fc11ed-09df-48cb-afda-da845c04b640,People should take breaks during work to stay refreshed.,Opinion,Opinion,0.1959479297148421
+6d0faf96-2794-4622-b6d0-c4443f4ca75e,Coffee beans are seeds.,Fact,Opinion,0.3288236324875524
+8b104ad9-0c04-4c8e-8fd9-8600cb5d172c,The Andromeda Galaxy is the closest spiral galaxy to the Milky Way.,Fact,Fact,0.7401362440869848
+80e9da77-90d8-4df0-83d5-d1550532191c,Watching a sunrise from a mountaintop is breathtaking.,Opinion,Opinion,0.3307991281265461
+da47b328-d05c-4a0c-81e7-0af81db4aeef,People should volunteer regularly to help their communities.,Opinion,Opinion,0.17328072006471396
+cde048cc-4bf5-499c-9603-64993fc0ad2c,The best decisions are made with both heart and mind.,Opinion,Opinion,0.41972120952049696
+38f63f88-db63-4236-bd52-efef12783576,Learning to play an instrument is a valuable skill.,Opinion,Opinion,0.2593701582400537
+b62bda51-ac21-4827-a201-8728aaa45088,Birds are the only animals with feathers.,Fact,Fact,0.6344070600264766
+0681ac7b-eb40-4679-9e67-b380603f45ca,Small classes allow for better teacher-student relationships.,Opinion,Opinion,0.3197800418308676
+def96517-d6ef-4288-90b5-1feb0d654327,The first manned spaceflight occurred in 1961.,Fact,Fact,0.8027353798572155
+9694f28e-4c5a-4096-806c-9cc75050f897,Morning coffee is essential for starting the day right.,Opinion,Opinion,0.3499036331419705
+6f5128bc-1f35-4523-bd89-37387fed8bc7,Learning to play an instrument is worth the effort.,Opinion,Opinion,0.35543392032497423
+204ed235-0f1a-4692-9c64-b3eb50d6d308,The capital of China is Beijing.,Fact,Fact,0.8466280292258322
+fef794b4-4f42-49e2-aeef-d44a2c6c994c,The taste of homemade soup is unbeatable.,Opinion,Opinion,0.34945605757520226
+f72cfc40-d7e6-443d-aa73-d92b9b73a095,The currency of the United States is the Dollar.,Fact,Fact,0.866335921553091
+38c9d7b4-d58e-4eee-ba38-60f55fbba90c,Mount Fuji is the highest mountain in Japan.,Fact,Fact,0.7493494712175314
+a02c321c-88e8-433b-a3e3-56c4bb0f22dc,The Nile River flows through Egypt.,Fact,Fact,0.7261103240076718
+9f4f3874-4c3a-4046-8564-2805034f1900,The Sahara Desert is located in Africa.,Fact,Fact,0.7797483756954298
+f82d73a0-ebba-4b3f-b119-d99dd6ce0b1d,There are eight planets in the solar system.,Fact,Fact,0.7690873649563403
+d8445737-3ce0-434d-af06-73ad5827d593,The Statue of Liberty was a gift from France to the United States.,Fact,Fact,0.769618728769513
+1acfc73e-5227-41e6-9fa3-e1a53ccab29d,The Earth orbits the Sun in an elliptical path.,Fact,Fact,0.8729653162356856
+122389aa-d265-4c80-8ac1-be2bfe4afe49,Natural remedies are preferable to synthetic medications.,Opinion,Opinion,0.2846535803305865
+7852a433-ccb1-4987-a565-06966d2e6758,Cold weather is refreshing.,Opinion,Opinion,0.30837126436660756
+747c9082-94af-45ae-8082-b8a7def1b941,The human liver is the largest internal organ.,Fact,Fact,0.8390938238881523
+9b964b9a-95a1-4e26-a4f3-d4cfe8a355c7,The Eiffel Tower is located in Paris.,Fact,Fact,0.7117601721483013
+789c64d8-4e83-46b1-960b-152bef7f309e,Handwritten thank-you notes are more appreciated than digital messages.,Opinion,Opinion,0.13920079117594486
+832d54d2-c02f-4432-b40e-0699f9f158cb,The Amazon River is one of the longest rivers in the world.,Fact,Fact,0.888271655784322
+96d1cc48-bd30-46c4-981e-982fb433e5c9,Classic novels are better than modern ones.,Opinion,Opinion,0.16732024013806768
+a6c0765b-bf17-4f18-aeaa-5bbe4f0c6e00,Having a strong support system is invaluable.,Opinion,Opinion,0.43426563300495025
+a2ce80f0-2410-43d9-9125-b8f2f941963a,Minimalist design feels cold.,Opinion,Opinion,0.37249377509001225
+251a6ee4-67dc-4064-942b-9be770d2a99d,Visiting a botanical garden is a delightful experience.,Opinion,Opinion,0.32456271019284777
+75819257-1dc8-44f9-b6a9-89246c3ae14b,The human body has an average weight of about 62 kilograms.,Fact,Fact,0.9306108475125066
+a7ccb652-d0f7-4461-8456-eb36125c2bde,Antarctica is the coldest continent.,Fact,Fact,0.6484618099036366
+55e87f54-069a-44c5-b906-534b8389f347,The human respiratory system includes the lungs and airways.,Fact,Fact,0.8767406233741615
+445fc4a5-749a-491b-a870-96c19453a269,Comfort food is best on a cold day.,Opinion,Opinion,0.223740490456951
+dadbbd25-b63d-4671-a797-b3c57fa7c730,Video games are a great way to relax.,Opinion,Opinion,0.25902877342458486
+9a1e2db7-276d-4d84-89d3-eb897b1aa883,A day spent at the lake is refreshing and fun.,Opinion,Opinion,0.3091697193621573

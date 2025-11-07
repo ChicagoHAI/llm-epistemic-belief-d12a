@@ -1,0 +1,37 @@
+{
+  "accuracy": 0.5,
+  "macro_f1": 0.38440492476060195,
+  "brier": 0.4455416666666666,
+  "n": 60,
+  "per_class": {
+    "Opinion": {
+      "precision": 1.0,
+      "recall": 0.0625,
+      "f1": 0.11764705882352941,
+      "support": 32
+    },
+    "Fact": {
+      "precision": 0.4827586206896552,
+      "recall": 1.0,
+      "f1": 0.6511627906976745,
+      "support": 28
+    }
+  },
+  "confusion": [
+    [
+      2,
+      30
+    ],
+    [
+      0,
+      28
+    ]
+  ],
+  "confidence_by_true": {
+    "Opinion": 0.9062499999999999,
+    "Fact": 0.9732142857142856
+  },
+  "valid_ratio": 0.9666666666666667,
+  "samples": 60,
+  "model_id": "Qwen/Qwen2.5-0.5B-Instruct"
+}

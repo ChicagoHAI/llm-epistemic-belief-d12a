@@ -1,0 +1,54 @@
+{
+  "accuracy_comparison": {
+    "baseline_accuracy": 0.9405204460966543,
+    "llm_accuracy": 0.5,
+    "z_stat": 8.897001236142204,
+    "p_value": 0.0,
+    "baseline_n": 269,
+    "llm_n": 60
+  },
+  "confidence_tests": {
+    "baseline": {
+      "fact_mean": 0.7660644240370376,
+      "opinion_mean": 0.2697279724419772,
+      "t_stat": 31.485001183173456,
+      "p_value": 2.1550747089828735e-88,
+      "cohens_d": 3.892096669652248
+    },
+    "llm": {
+      "fact_mean": 0.9732142857142856,
+      "opinion_mean": 0.9062499999999999,
+      "t_stat": 3.1806230551732813,
+      "p_value": 0.0029983990737840046,
+      "cohens_d": 0.7766719956401439
+    }
+  },
+  "keyword_analysis": {
+    "epistemic_table": [
+      [
+        11,
+        21
+      ],
+      [
+        15,
+        13
+      ]
+    ],
+    "epistemic_chi2_p": 0.216495208070066,
+    "opinion_table": [
+      [
+        1,
+        31
+      ],
+      [
+        0,
+        28
+      ]
+    ],
+    "opinion_chi2_p": 1.0
+  },
+  "plots": {
+    "baseline_confidence_density": "results/plots/baseline_confidence_density.png",
+    "llm_confidence_density": "results/plots/llm_confidence_density.png"
+  }
+}

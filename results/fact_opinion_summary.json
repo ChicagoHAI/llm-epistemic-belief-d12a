@@ -1,0 +1,22 @@
+{
+  "total_samples": 1342,
+  "label_distribution": {
+    "Opinion": 736,
+    "Fact": 606
+  },
+  "train_split": 805,
+  "val_split": 268,
+  "test_split": 269,
+  "char_length": {
+    "mean": 47.25186289120715,
+    "std": 12.545205006726032,
+    "min": 15,
+    "max": 95
+  },
+  "token_length": {
+    "mean": 7.896423248882265,
+    "std": 2.224809781315302,
+    "min": 3,
+    "max": 18
+  }
+}
